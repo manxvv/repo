@@ -1,0 +1,2003 @@
+data/obj_train_data/imgi_91_radiofrequency-radiation-present-sign-s-7370.png
+data/obj_train_data/imgi_102_il_fullxfull.4696506493_aucj.jpg
+data/obj_train_data/imgi_103_custom-ansi-caution-rf-sign-s-3600.gif
+data/obj_train_data/imgi_148_Web-2-17.jpg
+data/obj_train_data/imgi_34_default.png
+data/obj_train_data/imgi_22_default (7).png
+data/obj_train_data/imgi_162_danger-ionizing-radiation-warning-signs-600w-1806878725.jpg
+data/obj_train_data/imgi_117_WS33412-14__27796.1551465760.jpg
+data/obj_train_data/imgi_122_s-l400.jpg
+data/obj_train_data/imgi_69_71iGRLody6L.jpg
+data/obj_train_data/imgi_9_default (2).png
+data/obj_train_data/imgi_141_illustration-of-radiation-warning-symbol-isolated-on-white-2J2EYX3.jpg
+data/obj_train_data/imgi_152_TMO-Warning.jpg
+data/obj_train_data/imgi_148_radio-frequency-hazard-sign-labels-260nw-2249118401.jpg
+data/obj_train_data/imgi_26_default.png
+data/obj_train_data/imgi_179_8af2ea72d5ea6b4c46e4dc3137492bef.jpg
+data/obj_train_data/imgi_147_WS22442__60845.1699022846.jpg
+data/obj_train_data/imgi_101_a-cell-phone-tower-in-a-parking-lot-of-a-group-of-retail-stores-with-JH0AFY.jpg
+data/obj_train_data/imgi_116_rf-notice-1.jpg
+data/obj_train_data/imgi_180_RWEE-10-2021-Lockwood-Figs123-725w.jpg
+data/obj_train_data/imgi_118_rf-microwave-hazard-caution-sign-s-6091.png
+data/obj_train_data/imgi_169_9ccc0403ab039c4fa2c63ae86cfa5bcd.jpg
+data/obj_train_data/imgi_171_radio-frequency-fields-caution-sign-s-6079_pl.png
+data/obj_train_data/imgi_180_14640.jpg
+data/obj_train_data/imgi_20_default (3).png
+data/obj_train_data/imgi_105_danger-keep-out-sign-s-8282.png
+data/obj_train_data/imgi_101_H1542.png
+data/obj_train_data/imgi_144_WS-YT Warning Sign Non-Ionising Radiation Consult Site Folder 300mm x 200mm.jpg
+data/obj_train_data/imgi_138_notice-high-level-rf-radiation-sign-white-background_112413-14459.jpg
+data/obj_train_data/imgi_72_warning-radio-frequency-sign-s-7195.png
+data/obj_train_data/imgi_118_radio-frequency-hazard-sign-labels-260nw-2249118379.jpg
+data/obj_train_data/imgi_86_Warning-1.jpg
+data/obj_train_data/imgi_169_WS20459__90115.1699022919.jpg
+data/obj_train_data/imgi_153_Radiofrequency_L.jpg
+data/obj_train_data/imgi_88_radio-frequency-fields-warning-sign-C6FHX5.jpg
+data/obj_train_data/imgi_79_radio-frequency-warning-ansi-sign-s-2961.png
+data/obj_train_data/imgi_137_radfreqwarning.jpg
+data/obj_train_data/imgi_23_default (8).png
+data/obj_train_data/imgi_124_ghows-OH-bef7ff95-e59a-48b5-95d3-549d9deb14d7-0543a0ee.jpg
+data/obj_train_data/imgi_128_nuclear-hazard-ionizing-radiation-danger-260nw-2485731011.jpg
+data/obj_train_data/imgi_166_radiation-warning-labels.jpg
+data/obj_train_data/imgi_150_png-clipart-mt-san-jacinto-college-sign-hazard-symbol-radio-frequency-radio-electronics-text.png
+data/obj_train_data/imgi_127_warning-rf-hazard-sign-on-white-background-2JPWJ97.jpg
+data/obj_train_data/imgi_115_H1542.png
+data/obj_train_data/imgi_136_J6047.png
+data/obj_train_data/imgi_162_WS20463__76444.1699022939.jpg
+data/obj_train_data/imgi_95_RF Safety Signs Thumbnail 2.png
+data/obj_train_data/imgi_127_bbcomps7972_bos.jpg
+data/obj_train_data/imgi_31_default (8).png
+data/obj_train_data/imgi_105_high-power-rf-radiation-warning-sign-metromedia-center-mt-wilson-california-AFWTY0.jpg
+data/obj_train_data/imgi_126_WS-YT Warning Sign Non-Ionising Radiation Consult Site Folder 300mm x 200mm.jpg
+data/obj_train_data/imgi_117_warning-signs-series-three-different-260nw-215062.jpg
+data/obj_train_data/imgi_209_a-cell-phone-tower-in-a-parking-lot-of-a-group-of-retail-stores-with-JH0AFY.jpg
+data/obj_train_data/imgi_126_pacemaker-warning-signage.jpg
+data/obj_train_data/imgi_130_custom-ansi-caution-rf-sign-s-3600.gif
+data/obj_train_data/imgi_146_WS20466__10443.1699022954.450.450.jpg
+data/obj_train_data/2 (6).png
+data/obj_train_data/imgi_122_notice-rf-radiation-hazard-authorized-only-sign-on-white-background-free-vector.jpg
+data/obj_train_data/imgi_162__s_i_si-3614-14.jpg
+data/obj_train_data/imgi_125_RWEE-10-2021-Lockwood-Figs123-725w.jpg
+data/obj_train_data/imgi_160__s_i_si-5539-14.jpg
+data/obj_train_data/imgi_133_beyond-this-point-radio-frequency-rf-awareness-safety-poster-1-500x625-1.webp
+data/obj_train_data/imgi_108_ATT-Caution-2-3.jpg
+data/obj_train_data/imgi_107_hq720.jpg
+data/obj_train_data/imgi_37_images.jpg
+data/obj_train_data/sign18.png
+data/obj_train_data/imgi_153_OSHA-Notice-Sign-Radio-Frequency-Hazard-Area-Plastic-Sign-Protect-Your-Business-Construction-Site-Warehouse-Shop-Area-Made-i.jpg
+data/obj_train_data/imgi_59_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_149_danger-high-level-of-rf-radiation-sign-on-white-background-free-vector.jpg
+data/obj_train_data/imgi_279_il_570xN.4446956556_chme.jpg
+data/obj_train_data/imgi_121_Warning-Sign-Rf-Microwave-Energy-Controlled-Area-Contact-Before-Entering-7-x10-Plastic-Safety-Sign-ansi-osha_0ed062b3-01c4-4148-8abd-aee784 (1).jpg
+data/obj_train_data/imgi_40_images.png
+data/obj_train_data/imgi_162_safety-signs.jpg
+data/obj_train_data/imgi_176_WV7823{1PA}-A8P-V-full.png
+data/obj_train_data/1 (12).png
+data/obj_train_data/imgi_144_IP-18.1-february-march-2021.png
+data/obj_train_data/imgi_107_set-safety-signs-caution-signs-collection-warning-vector-illustration-danger-alerts-81478144.jpg
+data/obj_train_data/imgi_147_CPC-2-0-20-warningrf-eng.jpg
+data/obj_train_data/imgi_128_RFSafety01EN.png
+data/obj_train_data/imgi_108_Caution-1.jpg
+data/obj_train_data/imgi_105_WS33385-14__66018.1550679921.jpg
+data/obj_train_data/imgi_125_beyond-this-point-radio-frequency-rf-awareness-safety-poster-1-500x625-1.webp
+data/obj_train_data/imgi_164_WS33385-14__66018.1550679921.jpg
+data/obj_train_data/imgi_146_funny-and-scary-warning-signs-posted-on-pole-outside-someones-property-S04WMW.jpg
+data/obj_train_data/2.png
+data/obj_train_data/imgi_143_H1544BI.png
+data/obj_train_data/imgi_104_WS22435__22242.1699022810.jpg
+data/obj_train_data/imgi_140_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_120_614mwMSB0zL._AC_SY200_QL15_.jpg
+data/obj_train_data/imgi_28_default (2).png
+data/obj_train_data/imgi_187_124183.jpg
+data/obj_train_data/imgi_94_717OehullcL.jpg
+data/obj_train_data/imgi_173_841-label__37474.1739388410.png
+data/obj_train_data/imgi_124_related-rf-warning-signs.jpg
+data/obj_train_data/imgi_152_Radio-Frequency-Radiation-With-Symbol-OSHA-WARNING-Vinyl-Decal-Label-5-Inch-x-3-5-Inch-10-Pack_64c24432-9988-4ead-9b1d-1f8d89d203c9.c50cdd172bf.jpg
+data/obj_train_data/imgi_28_default (3).jpg
+data/obj_train_data/imgi_127_ericsson-no-trespassing-2.jpg
+data/obj_train_data/imgi_143_LS33412-46__58542.1571333380.jpg
+data/obj_train_data/imgi_104_E2259BI.png
+data/obj_train_data/imgi_11_default (8).png
+data/obj_train_data/imgi_120_H1523.png
+data/obj_train_data/imgi_118_MISC8343-113_full.jpg
+data/obj_train_data/imgi_104_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c8d14e3167260dd.jpg
+data/obj_train_data/imgi_128_non-ionizing-radiation-symbol-radiation-hazard-indicating-non-ionizing-radiation-radiation-exposure-alert-.jpg
+data/obj_train_data/imgi_97_radio-frequency-sign-rf-17184_1000_3.gif
+data/obj_train_data/imgi_177_Essex_CA%2C_GWEN_rf_rad_warning_sign.jpg
+data/obj_train_data/imgi_115_e-on-high-voltage-electrical-260nw-1577991607.jpg
+data/obj_train_data/imgi_160_non-ionizing-radiation-symbol-radiation-hazard-indicating-non-ionizing-radiation-radiation-exposure-alert-warning-radio-frequency-hazards-attenti-2XTD7AD.jpg
+data/obj_train_data/2 (26).png
+data/obj_train_data/imgi_177_61kq0C0TYBL.jpg
+data/obj_train_data/imgi_156_radfreqwarning.jpg
+data/obj_train_data/imgi_116_E2259.png
+data/obj_train_data/imgi_180_H1565.png
+data/obj_train_data/imgi_175_H1526.png
+data/obj_train_data/imgi_112_cautH138-highlevelradiofrequencyfieldsauthor__23665.1364785979.png
+data/obj_train_data/imgi_110_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c8d14e3167260dd.jpg
+data/obj_train_data/imgi_178_warning-rf-hazard-sign-on-white-background-2JR5GWE.jpg
+data/obj_train_data/imgi_120_J6047.png
+data/obj_train_data/imgi_138_images.png
+data/obj_train_data/imgi_143_ansi-z535-safety-sign-marking-260nw-2403730021.jpg
+data/obj_train_data/imgi_117_non-ionizing-radiation-caution-warning-symbol-design-vector.jpg
+data/obj_train_data/imgi_113_danger-harmful-symbol-and-text-safety-label-.jpg
+data/obj_train_data/imgi_149_radio-waves-hazard-warning-sign-250nw-347918726.jpg
+data/obj_train_data/imgi_105_restricted-radio-frequency-hazard-sign-s-9194.png
+data/obj_train_data/imgi_167_129344.jpg
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 01_20_56 PM.png
+data/obj_train_data/imgi_91_H1542BI.png
+data/obj_train_data/imgi_8_default (10).png
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 01_28_48 PM.png
+data/obj_train_data/imgi_168_radio-frequency-hazard-sign-labels-260nw-2249118379.jpg
+data/obj_train_data/2 (18).png
+data/obj_train_data/imgi_159_rf-signsa.jpg
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 12_26_49 PM.png
+data/obj_train_data/imgi_95_warning_radio_frequency_radiation_hazard_safety_sign-200x200h.jpg
+data/obj_train_data/imgi_92_2-Pack-Possible-RF-Radiation-With-Symbol-OSHA-Caution-Radiation-Sign_988e616f-b7ee-4d8f-bd37-240181b2d5b6.47e98b5a0ca4e472347494e55fa4619f.jpg
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 12_22_04 PM.png
+data/obj_train_data/1 (9).png
+data/obj_train_data/imgi_46_default.png
+data/obj_train_data/imgi_163_H1542.png
+data/obj_train_data/imgi_108_H1544BI.png
+data/obj_train_data/imgi_134_osha-safety-sign-marking-label-260nw-2403730213.jpg
+data/obj_train_data/imgi_55_H1542.png
+data/obj_train_data/imgi_114_RF Safety Signs Thumbnail 2.png
+data/obj_train_data/imgi_89_mqdefault.jpg
+data/obj_train_data/imgi_71_WS20469__97150.1699022969.jpg
+data/obj_train_data/imgi_128_NFPA-HMCIS-Wallet-Guide-BD-0385.gif
+data/obj_train_data/imgi_119_rf-microwave-hazard-caution-sign-s-6091.png
+data/obj_train_data/imgi_112_custom-ghs-chemical-danger-sign-s-3689.png
+data/obj_train_data/imgi_138_caution-warning-signs-set-iii-20267.jpg
+data/obj_train_data/imgi_108_radio-frequency-hazard-caution-sign-s-2771.png
+data/obj_train_data/imgi_160_caution-high-level-radio-frequency-energy-sign-frequence-warning-48568895.jpg
+data/obj_train_data/imgi_157_maxresdefault.jpg
+data/obj_train_data/imgi_127_3370-label__45443.1739387138.png
+data/obj_train_data/imgi_169_35325.jpg
+data/obj_train_data/imgi_127_electrical-hazard-warning-sign-labels-260nw-2238057743.jpg
+data/obj_train_data/imgi_115_129308.jpg
+data/obj_train_data/imgi_152_warning-rf-hazard-sign-on-white-background-free-vector.jpg
+data/obj_train_data/imgi_146_SignMission-10-x-14-in-OSHA-Notice-Sign-Radio-Frequency-Free-Zone-No-Two-Way-Radios-or-Cell-Phones_7f9fab5b-e35c-47ff-ad81-2183135796b6.7dfd07bffcb1f641c00.jpg
+data/obj_train_data/imgi_154_H1548.png
+data/obj_train_data/imgi_91_WS22435__22242.1699022810.jpg
+data/obj_train_data/imgi_113_bilingual-radio-frequency-fields-sign-s-6080.png
+data/obj_train_data/imgi_146_129344.jpg
+data/obj_train_data/imgi_113_notice-high-level-of-rf-radiation-sign-on-white-background-2JPWHRW.jpg
+data/obj_train_data/imgi_91_radio-transmitter-caution-and-warning-signs-on-the-gate-to-the-swains-lane-broadcasting-tower-highgate-london-uk-2FKDY01.jpg
+data/obj_train_data/imgi_97_radio-frequency-hazard-caution-sign-s-2772.png
+data/obj_train_data/imgi_168_35325.jpg
+data/obj_train_data/imgi_127_hazard-symbols-warning-signs-vector-757432.jpg
+data/obj_train_data/imgi_160_50-alert-warning-icons-essential-260nw-2648090367.jpg
+data/obj_train_data/imgi_129_images.png
+data/obj_train_data/imgi_161_Warning-Sign-Rf-Microwave-Energy-Controlled-Area-Contact-Before-Entering-7-x10-Plastic-Safety-Sign-ansi-osha_0ed062b3-01c4-4148-8abd-aee784afea.jpg
+data/obj_train_data/imgi_61_images.png
+data/obj_train_data/imgi_112_notice-radio-frequency-environment-warning-sign-on-a-chain-link-fence-M4CNFG.jpg
+data/obj_train_data/imgi_150_FM205-__03323.1619448883.jpg
+data/obj_train_data/imgi_132_51CRaBazumL.jpg
+data/obj_train_data/imgi_108_H1549.png
+data/obj_train_data/imgi_107_H1569.png
+data/obj_train_data/imgi_138_Sign+2.jpg
+data/obj_train_data/imgi_176_radio-frequency-sign-rf-17184_1000_3.gif
+data/obj_train_data/imgi_4_default (5).png
+data/obj_train_data/imgi_6_default (1).png
+data/obj_train_data/imgi_148_OSHA-CAUTION-RADIATION-Sign-Possible-RF-Radiation-With-Symbol-Decal-Protect-Your-Business-Work-Site-Warehouse-Shop-Area-Made-in-the-USA_0386a1a.jpg
+data/obj_train_data/imgi_142_s-l1200.jpg
+data/obj_train_data/imgi_87_Warning_Do_No_Push_on_Gate_Property_Under_24_Hour_Video_Surveillance_Sign.jpg
+data/obj_train_data/imgi_92_WS33284-14__53237.1549394546.jpg
+data/obj_train_data/imgi_21_default (7).png
+data/obj_train_data/imgi_108_rf-warning-labels (1).jpg
+data/obj_train_data/imgi_9_default (5).png
+data/obj_train_data/imgi_111_61Ksf+xR5jL.jpg
+data/obj_train_data/imgi_119_danger-vector-signs-radiation-sign-biohazard-sign-chemical-weapons-sign-warning-signs-PPEP59.jpg
+data/obj_train_data/imgi_176_E2259BI.png
+data/obj_train_data/imgi_103_construction-site-health-and-safety-message-rules-sign-board-signage-on-fence-boundary-2g98xjm.jpg
+data/obj_train_data/imgi_134_110614-F-FI292-564.jpg
+data/obj_train_data/imgi_107_maxresdefault.jpg
+data/obj_train_data/imgi_126_SL-SS-WAR-052.jpg
+data/obj_train_data/imgi_99_H1548.png
+data/obj_train_data/imgi_128_124183.jpg
+data/obj_train_data/imgi_116_notice-radio-frequency-environment-warning-sign-on-a-chain-link-fence-M4CNFG.jpg
+data/obj_train_data/imgi_136_OSHA-WARNING-Sign-Radio-Frequency-Fields-Near-With-Symbol-Decal-Protect-Your-Business-Work-Site-Warehouse-Shop-Area-Made-in-the-USA_0fd62ece-8e6c-4b44-adc6.jpg
+data/obj_train_data/imgi_129_radio-frequency-hazard-sign-labels-260nw-2249118437.jpg
+data/obj_train_data/imgi_171_cautH139-highlevelradiofrequencyfields__45137.1364785984.png
+data/obj_train_data/imgi_64_71q9sp1Do3L._AC_SY200_QL15_.jpg
+data/obj_train_data/imgi_113_custom-ghs-chemical-danger-sign-s-3689.png
+data/obj_train_data/imgi_116_CPC-2-0-20-warningrf-eng.jpg
+data/obj_train_data/imgi_151_H1543BI.png
+data/obj_train_data/imgi_112_blue.png
+data/obj_train_data/imgi_145_radiation-signs-cardboard-packaging-labels-260nw-2591975225.jpg
+data/obj_train_data/imgi_127__s_i_si-5539-14.jpg
+data/obj_train_data/imgi_13_default (1).png
+data/obj_train_data/imgi_131_antennes-5g-caen-free-orange.jpg
+data/obj_train_data/imgi_22_default (1).png
+data/obj_train_data/imgi_133_close-up-of-a-posted-danger-no-trespassing-sign-2JBGFR6.jpg
+data/obj_train_data/imgi_119_a-sign-on-a-fence-around-a-wifi-4g-5g-and-satellite-transmission-tower-warning-of-health-danger-2F6N98W.jpg
+data/obj_train_data/imgi_25_default (1).png
+data/obj_train_data/imgi_118_GGYaG7gbAAAigyQ.jpg
+data/obj_train_data/imgi_140_129314.jpg
+data/obj_train_data/imgi_176_radio-frequency-fields-warning-sign-C6FHX5.jpg
+data/obj_train_data/imgi_119_warning-radio-frequency-sign-s-7195.png
+data/obj_train_data/imgi_94_multiple-warning-signs-attached-to-wire-fence-multiple-warning-signs-attached-to-wire-fence-around-cell-phone-197007453.jpg
+data/obj_train_data/imgi_113_Warning_-_Underground_Cable_-_US_West_Communications_Buried_Telecommunications_Line_(44452875971).jpg
+data/obj_train_data/imgi_106_RF-safety-sign-1-300x300.jpg
+data/obj_train_data/imgi_90_radiation-warning-labels.jpg
+data/obj_train_data/imgi_169__s_i_si-5539-14.jpg
+data/obj_train_data/imgi_132_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_92_Warning-Sign-Rf-Microwave-Energy-Controlled-Area-Contact-Before-Entering-7-x10-Plastic-Safety-Sign-ansi-osha_0ed062b3-01c4-4148-8abd-aee784afea5.jpg
+data/obj_train_data/imgi_120_sign-on-a-military-vehicle-caution-non-ionising-radiation-do-not-loiter-CRWAY9.jpg
+data/obj_train_data/imgi_142_H1544.png
+data/obj_train_data/imgi_10_default (2).png
+data/obj_train_data/imgi_167_51eVX1mOv4L._AC_.jpg
+data/obj_train_data/imgi_208_41hZNms3R4L._QL92_SH45_SS200_.jpg
+data/obj_train_data/imgi_131_high-radio-frequency-fields-warning-sign-block-wall-yellow-white-black-caution-318401057.jpg
+data/obj_train_data/imgi_128_warning-sign-fixed-to-a-security-fence-around-a-mobile-telephone-mast-BDBB8H.jpg
+data/obj_train_data/imgi_112_s-l1200.jpg
+data/obj_train_data/imgi_122_1d4ad918-cd4d-5c43-a350-d9d9f9de5a35__17622.1691790913.jpg
+data/obj_train_data/imgi_115_H1551.png
+data/obj_train_data/imgi_105_H1521.png
+data/obj_train_data/imgi_158_H1549.png
+data/obj_train_data/imgi_115_LSS10_Lightbox_A1-780.jpg
+data/obj_train_data/imgi_40_default.png
+data/obj_train_data/imgi_106_15014788_a8b22e487c_b.jpg
+data/obj_train_data/imgi_123_warning_signs_blog.jpg
+data/obj_train_data/imgi_146_osha-safety-sign-marking-label-260nw-2403730217.jpg
+data/obj_train_data/imgi_142_WS22448__92281.1699022877.jpg
+data/obj_train_data/imgi_90_H1545.png
+data/obj_train_data/2 (8).png
+data/obj_train_data/imgi_163_radio-frequency-sign-rf-17185_150.gif
+data/obj_train_data/imgi_126_GcrTPkJW8AAwa0W.jpg
+data/obj_train_data/imgi_124_WS33385-14__66018.1550679921.jpg
+data/obj_train_data/imgi_156_rwf-skall-category-3-201x300.jpg
+data/obj_train_data/imgi_162_MRFQ504VA.jpg
+data/obj_train_data/imgi_136_orange.png
+data/obj_train_data/imgi_144_WS33284-14__53237.1549394546.jpg
+data/obj_train_data/imgi_125_WS20464__21365.1699022944.jpg
+data/obj_train_data/imgi_119_611620PbFBL._AC_SY200_QL15_.jpg
+data/obj_train_data/imgi_106_6403.png
+data/obj_train_data/2 (23).png
+data/obj_train_data/imgi_155_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_94_img_20180429_071925-rf-controlled-area-detail.jpg
+data/obj_train_data/imgi_126_hq720.jpg
+data/obj_train_data/imgi_119_signs2.gif
+data/obj_train_data/imgi_112_il_fullxfull.4696506493_aucj.jpg
+data/obj_train_data/imgi_118_notice-rf-radiation-hazard-authorized-only-sign-on-white-background-2JPWR24.jpg
+data/obj_train_data/imgi_121_red.png
+data/obj_train_data/imgi_181_non-ionizing-radiation-hazard-sign-WAHM2A.jpg
+data/obj_train_data/imgi_188_1000_F_333310496_XYzutvUmJvS2IYUxa0kK4TYbgFUkmLE9.jpg
+data/obj_train_data/imgi_154_warning-sign-radio-waves-8052469.jpg
+data/obj_train_data/imgi_131_RWEE-10-2021-Lockwood-Figs45-725w-353x263.jpg
+data/obj_train_data/imgi_148_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c8d14e3167260dd.jpg
+data/obj_train_data/1 (31).png
+data/obj_train_data/imgi_132_173109a.jpg
+data/obj_train_data/imgi_128_OSHA-WARNING-Sign-Radio-Frequency-Fields-Near-With-Symbol-Decal-Protect-Your-Business-Work-Site-Warehouse-Shop-Area-Made-in-the-USA_fa005e82-219f-4648-8e51.jpg
+data/obj_train_data/imgi_115_radio-frequency-fields-notice-sign-s-6083.png
+data/obj_train_data/imgi_158_radioactive-hazard-sign-5186853.jpg
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 12_32_39 PM.png
+data/obj_train_data/imgi_27_default (8).png
+data/obj_train_data/imgi_117_non-ionizing-radiation-warning-sign-260nw-715262080.jpg
+data/obj_train_data/imgi_26_default (1).png
+data/obj_train_data/imgi_60_images.png
+data/obj_train_data/imgi_121_Warning-Sign-Rf-Microwave-Energy-Controlled-Area-Contact-Before-Entering-7-x10-Plastic-Safety-Sign-ansi-osha_0ed062b3-01c4-4148-8abd-aee784afea.jpg
+data/obj_train_data/imgi_218_newradsign.gif
+data/obj_train_data/imgi_136_H1527.png
+data/obj_train_data/imgi_78_J6047.png
+data/obj_train_data/imgi_72_51CRaBazumL.jpg
+data/obj_train_data/imgi_233_s-l1200.jpg
+data/obj_train_data/imgi_142_set-radiation-sign-with-pole-persons-hand-blank-background-ideal-safety_722504-12572.jpg
+data/obj_train_data/imgi_141_H1527.png
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 01_32_59 PM.png
+data/obj_train_data/imgi_73_Warning-10-460x306.jpg
+data/obj_train_data/imgi_137_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c8d14e3167260dd.jpg
+data/obj_train_data/imgi_159_non-ionizing-radiation-warning-sign-K9C2PF.jpg
+data/obj_train_data/imgi_130_WS21584__68782.1699022995.jpg
+data/obj_train_data/imgi_157_radio-frequency-sign-rf-0016_150.gif
+data/obj_train_data/imgi_121_warning-rf-radiation-hazard-authorized-only-sign-white-background_112413-31481.jpg
+data/obj_train_data/imgi_29_default.png
+data/obj_train_data/imgi_90_Alta-Interlodge-Cyn-Close-011424_6.jpg
+data/obj_train_data/imgi_170_H1548.png
+data/obj_train_data/imgi_96_keep-out-sign-at-the-base-of-a-radio-transmitter-tower-2D6D9CF.jpg
+data/obj_train_data/imgi_161_WS_YC_3.jpg
+data/obj_train_data/imgi_23_default (7).png
+data/obj_train_data/imgi_98_png-transparent-ionizing-radiation-hazard-symbol-radioactive-decay-radiation-exposure-symbol-miscellaneous-angle-text.png
+data/obj_train_data/imgi_61_71j8vA0MfVL.jpg
+data/obj_train_data/imgi_100_5f4af73d9f62ad58008cbc9c473ab887.jpg
+data/obj_train_data/imgi_172_warning-radioactive-materials-symbol-sign-260nw-1480814246.jpg
+data/obj_train_data/imgi_171_186a468d-add1-4dee-bc32-de6232e352e4.8b207250df5e5ca350f22589b80af733.jpg
+data/obj_train_data/imgi_195_nonionizing-radiation-icon_602333-795.jpg
+data/obj_train_data/imgi_121_rf-warning-labels (1).jpg
+data/obj_train_data/imgi_157_wireless-radiation-sign-C47K2X.jpg
+data/obj_train_data/imgi_109_related-rf-warning-signs.jpg
+data/obj_train_data/imgi_114_6ee06b8fa801a4aeb6077a8189552d58.jpg
+data/obj_train_data/imgi_172_warning_radio_frequency_radiation_hazard_safety_sign-600x315w.jpg
+data/obj_train_data/imgi_140_warning-radio-antenna-tower-conceptual-vector-with-text-2X5KX0K.jpg
+data/obj_train_data/imgi_113_0000927_rf-safety-guidelines-8x12_415.png
+data/obj_train_data/imgi_79_radio-frequency-fields-warning-sign-s-6088.png
+data/obj_train_data/2 (14).png
+data/obj_train_data/imgi_116_H1549.png
+data/obj_train_data/imgi_152_rf-microwave-hazard-caution-sign-s-6091.png
+data/obj_train_data/imgi_111_custom-ansi-warning-sign-s-3601.gif
+data/obj_train_data/imgi_111_RFToweSafe.jpg
+data/obj_train_data/imgi_115_WS22210-14__38082.1551453789.jpg
+data/obj_train_data/imgi_99__s_i_si-3614-14.jpg
+data/obj_train_data/imgi_114_caution-radio-transmitters-operating-warning-sign-on-a-metal-gate-at-a-uk-mobile-cell-phone-tower-2ehaptk.jpg
+data/obj_train_data/imgi_164_bbcomps7572_bb.jpg
+data/obj_train_data/imgi_93_rf-warning-labels.jpg
+data/obj_train_data/imgi_140_il_1080xN.4696506493_aucj.jpg
+data/obj_train_data/imgi_132_H1541.png
+data/obj_train_data/imgi_190_RF-safety-sign-1-300x300.jpg
+data/obj_train_data/imgi_12_default (7).png
+data/obj_train_data/imgi_14_default (2).png
+data/obj_train_data/imgi_26_default (6).png
+data/obj_train_data/imgi_167_danger-banner-radio-frequency-field-yellow-triangle-keep-out-official-international-hazard-warning-signs-label-public-74914787.jpg
+data/obj_train_data/imgi_165_png-transparent-non-ionizing-radiation-radioactive-decay-gamma-ray-lab-safety-s-angle-triangle-sign.png
+data/obj_train_data/1 (33).png
+data/obj_train_data/imgi_186_H1527.png
+data/obj_train_data/imgi_32_default (3).jpg
+data/obj_train_data/imgi_143_optical-radiation-emission-symbol-sign-2767765.jpg
+data/obj_train_data/imgi_156_radio_frequency.png
+data/obj_train_data/2 (19).png
+data/obj_train_data/2 (15).png
+data/obj_train_data/imgi_110_129314.jpg
+data/obj_train_data/imgi_134_E2259BI.png
+data/obj_train_data/imgi_136_WS-YC Caution Sign Non-Ionising Radiation Consult Site  Folder 300mm x 200mm.jpg
+data/obj_train_data/1 (7).png
+data/obj_train_data/imgi_165_Radio-Frequency-Radiation-With-Symbol-OSHA-WARNING-Vinyl-Decal-Label-5-Inch-x-3-5-Inch-10-Pack_64c24432-9988-4ead-9b1d-1f8d89d203c9.c50cdd172bf5c3808bacea6.jpg
+data/obj_train_data/imgi_97_radio-transmitter-caution-and-warning-signs-on-the-gate-to-the-swains-lane-broadcasting-tower-highgate-london-uk-2FKDXYT.jpg
+data/obj_train_data/imgi_147_danger-rf-radiation-hazard-authorized-only-sign-on-white-background-free-vector.jpg
+data/obj_train_data/imgi_131_yellow-white-and-black-caution-high-radio-frequency-fields-warning-sign-on-block-wall-2X6KKJA.jpg
+data/obj_train_data/imgi_111_hqdefault_23_45.jpg
+data/obj_train_data/imgi_96_0000772_vw-pc-wa-btp-812_415.png
+data/obj_train_data/imgi_76_617LwmowZEL.jpg
+data/obj_train_data/imgi_25_default (3).png
+data/obj_train_data/imgi_156_8af2ea72d5ea6b4c46e4dc3137492bef.jpg
+data/obj_train_data/imgi_182_warning_radio_frequency_radiation_hazard_safety_sign-600x315w.jpg
+data/obj_train_data/imgi_131_WS20468__14732.1699022964.jpg
+data/obj_train_data/imgi_112_H1523.png
+data/obj_train_data/imgi_93_H1525.png
+data/obj_train_data/imgi_85_yellow.png
+data/obj_train_data/imgi_5_default (8).png
+data/obj_train_data/imgi_169_OS1036CH-__46860.1740092697.jpg
+data/obj_train_data/2 (2).png
+data/obj_train_data/imgi_116_H1544BI.png
+data/obj_train_data/imgi_121_hqdefault_23_45.jpg
+data/obj_train_data/imgi_144_Radio-Frequency-High-Level-Warning-Sign.jpg
+data/obj_train_data/imgi_128_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c8d14e3167260dd.jpg
+data/obj_train_data/imgi_147_rf-warning-labels.jpg
+data/obj_train_data/imgi_148_radio-frequency-sign-rf-0012_150.gif
+data/obj_train_data/imgi_137_41a9ebxsjXL._AC_SY200_QL15_.jpg
+data/obj_train_data/2 (1).png
+data/obj_train_data/imgi_220_18-0233.jpg
+data/obj_train_data/imgi_153_129344.jpg
+data/obj_train_data/imgi_155_H1545.png
+data/obj_train_data/imgi_165_H1544BI.png
+data/obj_train_data/imgi_121_WS33384-14__64597.1550679918.jpg
+data/obj_train_data/imgi_139_warning_radio_frequency_radiation_hazard_safety_sign-550x385.jpg
+data/obj_train_data/imgi_111_H1551.png
+data/obj_train_data/imgi_151_H1545.png
+data/obj_train_data/imgi_136_61+klfLasgL.jpg
+data/obj_train_data/imgi_98_H1569.png
+data/obj_train_data/imgi_133_WS20469__97150.1699022969.jpg
+data/obj_train_data/imgi_127_s-l1200.jpg
+data/obj_train_data/imgi_114_6405a.png
+data/obj_train_data/imgi_97_WS33284-14__53237.1549394546.jpg
+data/obj_train_data/imgi_150_SIGNRFWARN2.jpg
+data/obj_train_data/imgi_147_51MPvKmBdXL._QL92_SH45_SS200_.jpg
+data/obj_train_data/imgi_223_il_1080xN.5307028878_i5do.jpg
+data/obj_train_data/imgi_149_rf-warning-labels.jpg
+data/obj_train_data/imgi_94_pexels-photo-18600098.jpg
+data/obj_train_data/imgi_18_default.png
+data/obj_train_data/imgi_88_bilingual-radio-frequency-fields-sign-s-6080.png
+data/obj_train_data/1 (8).png
+data/obj_train_data/imgi_150_rf-signsa.jpg
+data/obj_train_data/imgi_120_radfreqwarning.jpg
+data/obj_train_data/imgi_149_custom-ansi-warning-sign-s-3601.gif
+data/obj_train_data/imgi_115_danger-banner-radio-frequency-field-in-yellow-triangle-keep-out-official-HNPMRT.jpg
+data/obj_train_data/imgi_186_radio-frequency-sign-rf-16366_1000.gif
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 01_16_21 PM.png
+data/obj_train_data/imgi_3_default.png
+data/obj_train_data/imgi_165_rwf-skall-category-3-201x300.jpg
+data/obj_train_data/1 (21).png
+data/obj_train_data/imgi_210_radio-frequency-hazard-sign-labels-260nw-2249118379.jpg
+data/obj_train_data/imgi_94_H1567.png
+data/obj_train_data/imgi_106_radio-frequency-hazard-caution-sign-260nw-1996486004.jpg
+data/obj_train_data/imgi_24_default (3).png
+data/obj_train_data/sign7.png
+data/obj_train_data/imgi_179_cautH139-highlevelradiofrequencyfields__45137.1364785984.png
+data/obj_train_data/imgi_126_CautionHighLevelRadioFrequencyFieldsSign.png
+data/obj_train_data/imgi_121_bilingual-radio-frequency-notice-sign-s-6084.png
+data/obj_train_data/imgi_5_default (7).png
+data/obj_train_data/imgi_180_rf-signsa.jpg
+data/obj_train_data/imgi_116_s-l1200.jpg
+data/obj_train_data/imgi_146_WS_YC_3.jpg
+data/obj_train_data/imgi_82_LS22233-46__83763.1632759425.jpg
+data/obj_train_data/imgi_137_depositphotos_742104774-stock-illustration-radioactive-sign-icon-vector-illustration.jpg
+data/obj_train_data/imgi_124_labels.png
+data/obj_train_data/sign3.png
+data/obj_train_data/imgi_187_721-label__40259.1739388294.png
+data/obj_train_data/1 (29).png
+data/obj_train_data/imgi_154_warning-signs-posted-on-ground-260nw-2214246465.jpg
+data/obj_train_data/imgi_154_radio-frequency-hazard-sign-labels-260nw-2249118379.jpg
+data/obj_train_data/imgi_180_841-label__37474.1739388410.png
+data/obj_train_data/imgi_120_61fQzUfNF4L.jpg
+data/obj_train_data/imgi_70_OSHA-Warning-Sign-RF-Microwave-Energy-Controlled-Area-Custom_949eb9cd-02d7-4c3b-8231-d99886a40577.48740f55e4ca210bcccf3e3446d2d1e1.jpg
+data/obj_train_data/imgi_117__s_i_si-4943-14.jpg
+data/obj_train_data/imgi_119_rf1.jpg
+data/obj_train_data/imgi_131_WV7823{1LA}-A5L-HV-th.png
+data/obj_train_data/imgi_157_6403.png
+data/obj_train_data/imgi_95_web1_CTY-SHARK-SIGN.jpg
+data/obj_train_data/imgi_147_warning-rf-hazard-sign-on-white-background-2JPWRY4.jpg
+data/obj_train_data/imgi_163_fine-hazard-signs-collection-vector-260nw-25462558.jpg
+data/obj_train_data/imgi_151_3014-label__96084.1739385776.png
+data/obj_train_data/2 (31).png
+data/obj_train_data/imgi_128_E2260.png
+data/obj_train_data/imgi_174_614mwMSB0zL._AC_SY200_QL15_.jpg
+data/obj_train_data/sign20.png
+data/obj_train_data/imgi_170_warning-rf-hazard-sign-on-white-background-2JR5GWE.jpg
+data/obj_train_data/imgi_124_rawImage.jpg
+data/obj_train_data/imgi_85__s_i_si-5587-14.jpg
+data/obj_train_data/sign16.png
+data/obj_train_data/imgi_117_Notice-1.jpg
+data/obj_train_data/imgi_158_1748.jpg
+data/obj_train_data/imgi_144_dont-touch-tower-rf-sign-s-9196.png
+data/obj_train_data/imgi_78_H1527.png
+data/obj_train_data/imgi_112_yellow-white-and-black-caution-high-radio-frequency-fields-warning-sign-on-block-wall-2X6KKJA.jpg
+data/obj_train_data/imgi_178_WS20465__37310.1699022949.jpg
+data/obj_train_data/imgi_170__s_i_si-5587-14.jpg
+data/obj_train_data/imgi_169_H6027_6043-3RWH__41042.1552320767.jpg
+data/obj_train_data/imgi_19_default (1).png
+data/obj_train_data/imgi_136_danger-keep-out-sign-s-8282.png
+data/obj_train_data/imgi_112_rwf-skall-category-4a-201x300.jpg
+data/obj_train_data/2 (17).png
+data/obj_train_data/imgi_99_What-is-EMF-.jpg
+data/obj_train_data/imgi_131_s-l1200.jpg
+data/obj_train_data/imgi_141_Kuva2.png
+data/obj_train_data/imgi_130_124183.jpg
+data/obj_train_data/imgi_129_warning-sign-at-the-bottom-of-a-cellular-mobile-phone-transmitter-mast-M9GR30.jpg
+data/obj_train_data/imgi_32_default (6).png
+data/obj_train_data/imgi_134_wireless-radiation-sign-C47K2X.jpg
+data/obj_train_data/imgi_128_radiofrequency-radiation-present-sign-s-7370.png
+data/obj_train_data/imgi_128_H1550.png
+data/obj_train_data/imgi_119_3zoaNvCZKxGbeEvkbt4KmgoqcJ69p8D0DPofQll8rP8.jpg
+data/obj_train_data/imgi_101_warning-rf-radiation-hazard-authorized-only-sign-white-background_112413-31481.jpg
+data/obj_train_data/imgi_108_Radio-Frequency-Radiation-With-Symbol-OSHA-WARNING-Vinyl-Decal-Label-5-Inch-x-3-5-Inch-10-Pack_64c24432-9988-4ead-9b1d-1f8d8.jpg
+data/obj_train_data/imgi_97_H1525.png
+data/obj_train_data/1 (41).png
+data/obj_train_data/imgi_126_danger-high-level-of-rf-radiation-sign-on-white-background-free-vector.jpg
+data/obj_train_data/imgi_114_warning_radio_frequency_radiation_hazard_safety_sign-600x315w.jpg
+data/obj_train_data/imgi_100_rf-environments-work-guidelines-sign-s-6089.png
+data/obj_train_data/imgi_129_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c8d14e3167260dd.jpg
+data/obj_train_data/imgi_90_WS22434__54819.1699022805.jpg
+data/obj_train_data/imgi_148_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_107_kirkcudbright-scotland-28th-december-2020-arqiva-caution-radio-transmitters-operating-warning-sign-on-a-metal-gate-at-a.jpg
+data/obj_train_data/imgi_153_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_155_71Va-e+6NWL.jpg
+data/obj_train_data/imgi_142_l9FgTMW.jpg
+data/obj_train_data/imgi_99_notice-radio-frequency-environment-warning-sign-on-a-chain-link-fence-M4CNFG.jpg
+data/obj_train_data/2 (46).png
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 01_24_25 PM.png
+data/obj_train_data/imgi_106_non-ionizing-radiation-symbol-radiation-hazard-indicating-non-ionizing-radiation-radiation-exposure-alert-warning-radio-frequency-hazards-atten.jpg
+data/obj_train_data/21.png
+data/obj_train_data/imgi_147_danger-keep-out-sign-s-8282.png
+data/obj_train_data/imgi_149_radio-frequency-hazard-sign-labels-260nw-2249118405.jpg
+data/obj_train_data/imgi_43_default.jpg
+data/obj_train_data/imgi_130_H1526.png
+data/obj_train_data/imgi_129_industrial-warning-about-sign-electromagnetic-260nw-1494636749.jpg
+data/obj_train_data/imgi_158_s-l1200.jpg
+data/obj_train_data/imgi_151_WV7823{1LA}-A7L-PV-th.png
+data/obj_train_data/imgi_138_H1523.png
+data/obj_train_data/imgi_168_ansi-z535-safety-sign-marking-260nw-2403729971.jpg
+data/obj_train_data/imgi_51_images.png
+data/obj_train_data/imgi_126_dont-touch-tower-rf-sign-s-9196.png
+data/obj_train_data/imgi_7_default (4).png
+data/obj_train_data/imgi_173_yellow-black-sign-that-says-electrician_655051-1239.jpg
+data/obj_train_data/imgi_143_warning-rf-hazard-sign-on-white-background-2JPWRY4.jpg
+data/obj_train_data/imgi_150_yellow.png
+data/obj_train_data/imgi_151_radio-frequency-safety-signs.png
+data/obj_train_data/imgi_127_SIGNRFWARN2.jpg
+data/obj_train_data/imgi_137_H1526.png
+data/obj_train_data/imgi_125_radio-frequency-fields-caution-sign-s-6079.png
+data/obj_train_data/imgi_170_For-Your-Own-Health.jpg
+data/obj_train_data/imgi_162_Stafford-Arco-Helicopter-TIFF.jpg
+data/obj_train_data/imgi_126_H1542.png
+data/obj_train_data/imgi_143_stock-vector-isolated-warning-radio-frequency-hazards-symbols-on-yellow-round-triangle-board-warning-sign-for-1522129796.jpg
+data/obj_train_data/imgi_164_warning_radio_frequency_radiation_hazard_safety_sign-200x200h.jpg
+data/obj_train_data/2 (12).png
+data/obj_train_data/imgi_74_images.png
+data/obj_train_data/imgi_141_1tvnveagj7a11.jpg
+data/obj_train_data/imgi_5_default (3).png
+data/obj_train_data/imgi_29_default (2).png
+data/obj_train_data/imgi_136_WS22434__54819.1699022805.jpg
+data/obj_train_data/imgi_121_0000812_vw-dc-mc-ow-53-pack-of-50_415.png
+data/obj_train_data/imgi_109_a-sign-on-a-fence-around-a-wifi-4g-5g-and-satellite-transmission-tower-warning-of-health-danger-2F6N.jpg
+data/obj_train_data/imgi_155_radio-frequency-fields-warning-sign-s-6088.png
+data/obj_train_data/imgi_32_default (2).jpg
+data/obj_train_data/imgi_19_default.png
+data/obj_train_data/2 (41).png
+data/obj_train_data/imgi_28_default.png
+data/obj_train_data/imgi_85_H1544.png
+data/obj_train_data/imgi_74_H1549.png
+data/obj_train_data/sign12.png
+data/obj_train_data/imgi_5_default (4).jpg
+data/obj_train_data/imgi_156_osha-safety-sign-marking-label-600w-2403730045.jpg
+data/obj_train_data/imgi_140_0000923_caution-yellow-rf-8x12_415.png
+data/obj_train_data/imgi_98_ca364721-1e6b-49ff-b1fb-d56f33467c39-medium16x9_LisaRadiofrequencyenergyexposuresign2.jpg
+data/obj_train_data/imgi_178_bb437723-e662-4188-b991-2f80ac095d36_1140x641.jpg
+data/obj_train_data/imgi_142_129314.jpg
+data/obj_train_data/imgi_4_default (6).png
+data/obj_train_data/imgi_174_non-ionizing-radiation-caution-warning-symbol-design-vector.jpg
+data/obj_train_data/imgi_176_rf-warning-labels.jpg
+data/obj_train_data/imgi_105_newradsign.gif
+data/obj_train_data/imgi_149__s_i_si-3609-14.jpg
+data/obj_train_data/imgi_143_rf-warning-signs.jpg
+data/obj_train_data/imgi_119_images.jpg
+data/obj_train_data/imgi_109__s_i_si-5588-14.jpg
+data/obj_train_data/imgi_104_GGYaG7gbAAAigyQ.jpg
+data/obj_train_data/imgi_17_default (1).png
+data/obj_train_data/imgi_157_Warning-Sign-Rf-Microwave-Energy-Controlled-Area-Contact-Before-Entering-7-x10-Plastic-Safety-Sign-ansi-osha_0ed062b3-01c4-4148-8abd-aee784afea.jpg
+data/obj_train_data/1 (43).png
+data/obj_train_data/imgi_98_maxresdefault.jpg
+data/obj_train_data/imgi_140_dangerous-hazard-symbols-radiation-poison-and-chemical-warning-signs-3BHBJG4.jpg
+data/obj_train_data/2 (43).png
+data/obj_train_data/imgi_103_yellow.png
+data/obj_train_data/imgi_109_maxresdefault.jpg
+data/obj_train_data/imgi_110_stock-vector-iso-registered-safety-signs-warnings-non-ionizing-radiation-black-and-white-2634036627.jpg
+data/obj_train_data/imgi_174_J6047.png
+data/obj_train_data/imgi_3_default (1).png
+data/obj_train_data/imgi_124_SIGNRFWARN2.jpg
+data/obj_train_data/imgi_149_png-clipart-mt-san-jacinto-college-sign-hazard-symbol-radio-frequency-radio-electronics-text.png
+data/obj_train_data/imgi_115_54714852_7m.jpg
+data/obj_train_data/imgi_14_default (3).png
+data/obj_train_data/imgi_171_s-l1200.jpg
+data/obj_train_data/imgi_117_radio-frequency-warning.jpg
+data/obj_train_data/imgi_153_beyond-this-point-radio-frequency-rf-awareness-safety-poster-1-500x625-1.webp
+data/obj_train_data/imgi_141_H1552.png
+data/obj_train_data/imgi_73_H1543.png
+data/obj_train_data/imgi_131_Warning-Sign-Rf-Microwave-Energy-Controlled-Area-Contact-Before-Entering-7-x10-Plastic-Safety-Sign-ansi-osha_0ed062b3-01c4-4148-8abd-aee784afea5a.580d07b94.jpg
+data/obj_train_data/imgi_164_H1547.png
+data/obj_train_data/imgi_103_images.png
+data/obj_train_data/imgi_137_h0us3s_Signs_Hazard_Warning_33.png
+data/obj_train_data/imgi_151_Radio-Frequency-Hazard-Dangerous-Pacemaker-OSHA-WARNING-Aluminum-Sign-14-Inch-x-10-Inch-5-Pack_a3b59d45-f01d-4805-af7b-f0b248c9b1e2.ef1d1bfd13395af86ddbe24.jpg
+data/obj_train_data/imgi_92_0000763_vw-pc-ca-btp-128_415.png
+data/obj_train_data/imgi_104_Essex_CA%2C_GWEN_rf_rad_warning_sign.jpg
+data/obj_train_data/imgi_183_cs128.jpg
+data/obj_train_data/imgi_187_radio-frequency-warning-sign-s-2967.png
+data/obj_train_data/imgi_28_default (4).png
+data/obj_train_data/imgi_204_high-power-rf-radiation-warning-sign-metromedia-center-mt-wilson-california-AFWTY0.jpg
+data/obj_train_data/imgi_130_265745.jpg
+data/obj_train_data/imgi_154_ionizing-radiation-photoluminescent-safety-sign.jpg
+data/obj_train_data/imgi_110_radio-frequency-fields-caution-sign-s-6079.png
+data/obj_train_data/imgi_124_Sign+2.jpg
+data/obj_train_data/imgi_119_y2442596.jpg
+data/obj_train_data/imgi_139_s-l400.jpg
+data/obj_train_data/imgi_85_warning-radio-frequency-rf-safety-poster-500x627-1.webp
+data/obj_train_data/imgi_127_IMG_4279-1024x682.jpg
+data/obj_train_data/imgi_183_bbcomps7121_bos_03.jpg
+data/obj_train_data/imgi_120_Construction-Safety-Signs.jpg
+data/obj_train_data/imgi_9_default (7).png
+data/obj_train_data/imgi_161_yellow-white-and-black-caution-high-radio-frequency-fields-warning-sign-on-block-wall-2X6KKJA.jpg
+data/obj_train_data/imgi_123_warning-restricted-area-sign-s-2963.png
+data/obj_train_data/1 (22).png
+data/obj_train_data/imgi_172_324-label__99701.1739385996.png
+data/obj_train_data/imgi_99_warning-radio-frequency-sign-s-7195.png
+data/obj_train_data/imgi_170_WS33385-14__66018.1550679921.jpg
+data/obj_train_data/imgi_157_124183.jpg
+data/obj_train_data/imgi_129_124183.jpg
+data/obj_train_data/imgi_139_Possible-RF-Radiation-Hazard-OSHA-Notice-Rigid-Plastic-Sign-18-Inch-x-12-Inch-5-Pack_e3ef9dfc-bd4e-42e6-a56d-a0e2eb6dea3c.7d8d841195d095f53e6a8.jpg
+data/obj_train_data/imgi_149_640px-For_Your_Own_Health_(13942406865)_(2).jpg
+data/obj_train_data/imgi_18_default (3).png
+data/obj_train_data/imgi_130_yellow-white-and-black-caution-high-radio-frequency-fields-warning-sign-on-block-wall-2X6KKJA.jpg
+data/obj_train_data/imgi_154_rf-warning-labels-2.jpg
+data/obj_train_data/imgi_159_radio-frequency-fields-notice-sign-s-6083.png
+data/obj_train_data/imgi_131_STEN_W005_P.jpg
+data/obj_train_data/imgi_122_fall+protection+signs.jpg
+data/obj_train_data/imgi_124_OS-2PACK-NS-A-710-L-17711-2.jpg
+data/obj_train_data/imgi_158_WV7823{1SQ}-S85-HV-th.png
+data/obj_train_data/imgi_155_non-ionizing-radiation-board-symbol-radiation-hazard-indicating-caution-non-ionizing-radiation-radiation-exposure-alert-warn.jpg
+data/obj_train_data/sign21.png
+data/obj_train_data/imgi_114_0000844_vw-al-wa-sbf128-vw-pl-wa-sbf128-vw-dc-wa-sbf128_415.png
+data/obj_train_data/imgi_152_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_119_H1542.png
+data/obj_train_data/imgi_198__s_i_si-65195-12.jpg
+data/obj_train_data/imgi_116_radio-frequency-sign-rf-17184_1000_3.gif
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 01_23_22 PM.png
+data/obj_train_data/imgi_88_rf-signsa.jpg
+data/obj_train_data/imgi_108_00x79lnw1vvb1.jpg
+data/obj_train_data/imgi_105_rf-microwave-hazard-caution-sign-s-6091.png
+data/obj_train_data/imgi_104_a-multitude-of-health-and-safety-warning-signs-on-gate-to-a-building-D7H1A9.jpg
+data/obj_train_data/sing.png
+data/obj_train_data/imgi_122_124183.jpg
+data/obj_train_data/imgi_175_caution-rf-hazard-sign-on-white-background-free-vector.jpg
+data/obj_train_data/imgi_20_default (2).png
+data/obj_train_data/imgi_101_warning-sign-with-symbols-for-dangerous-high-voltage-and-radio-frequency-C4YRNF.jpg
+data/obj_train_data/imgi_122_WS-YT Warning Sign Non-Ionising Radiation Consult Site Folder 300mm x 200mm.jpg
+data/obj_train_data/imgi_113_19BCJAMES-jumbo.jpg
+data/obj_train_data/imgi_10_default.png
+data/obj_train_data/imgi_97_H1544BI.png
+data/obj_train_data/imgi_161_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c8d14e3167260dd.jpg
+data/obj_train_data/1 (6).png
+data/obj_train_data/imgi_186_set-hazard-symbols-group-element-260nw-2528525475.jpg
+data/obj_train_data/imgi_105_H1542.png
+data/obj_train_data/sign23.png
+data/obj_train_data/imgi_150_WS20462__37967.1699022934.jpg
+data/obj_train_data/imgi_152_mqdefault.jpg
+data/obj_train_data/imgi_152_OS-2PACK-NS-D-35-L-17711-2.jpg
+data/obj_train_data/imgi_133_y2429036.jpg
+data/obj_train_data/imgi_84_H1542.png
+data/obj_train_data/imgi_161_shock-burn-hazard-ansi-sign-s-6078.png
+data/obj_train_data/2 (5).png
+data/obj_train_data/imgi_130_notice-rf-radiation-hazard-authorized-sign-white-background-254316353.jpg
+data/obj_train_data/1 (44).png
+data/obj_train_data/imgi_3_default (2).jpg
+data/obj_train_data/imgi_113_27e1b40f-7bd0-4c79-9009-dc00f4b35376_1920x1080.jpg
+data/obj_train_data/imgi_147_H1544BI.png
+data/obj_train_data/imgi_129_warning-signs-union-city-california-K6KP05.jpg
+data/obj_train_data/imgi_79_non-ionizing-radiation-caution-warning-symbol-design-vector.jpg
+data/obj_train_data/imgi_186_ansi-z535-safety-sign-marking-600nw-2341856779.jpg
+data/obj_train_data/imgi_122_radio-transmitters-operating-health-and-safety-sign-2f8228p.jpg
+data/obj_train_data/imgi_41_default.png
+data/obj_train_data/imgi_132_41u4l7PUVWL.jpg
+data/obj_train_data/imgi_136_hazardous-substances-identification-storage-area-marking-label-warning-symbol-corrosive-2X3GRXD.jpg
+data/obj_train_data/imgi_110_51n7fuyJHUL._QL92_SH45_SS200_.jpg
+data/obj_train_data/imgi_163_E2260.png
+data/obj_train_data/imgi_181_RWEE-10-2021-Lockwood-Figs123-725w.jpg
+data/obj_train_data/imgi_29_default (6).png
+data/obj_train_data/imgi_202_bilingual-radio-frequency-fields-sign-s-6080.png
+data/obj_train_data/imgi_161_RWEE-10-2021-Lockwood-Figs45-725w-353x263.jpg
+data/obj_train_data/imgi_94_d53c3e73-c731-4817-a82b-ecb26f2a9700.0e4dc0dee441bac28268044aa580647c.jpg
+data/obj_train_data/imgi_96_blue.png
+data/obj_train_data/imgi_161_radiation-warning-symbol-sign-s-9784.png
+data/obj_train_data/imgi_139_caution-rf-radiation-hazard-authorized-260nw-2019687941.jpg
+data/obj_train_data/imgi_137_WS22344__29464.1597959001.jpg
+data/obj_train_data/imgi_131_radio-frequency-safety-signs.png
+data/obj_train_data/imgi_115_images.jpg
+data/obj_train_data/imgi_83_WS21588__75122.1699023015.jpg
+data/obj_train_data/imgi_189_41hZNms3R4L._QL92_SH45_SS200_.jpg
+data/obj_train_data/imgi_123_beyond-this-point-radio-frequency-rf-awareness-safety-poster-1-500x625-1.webp
+data/obj_train_data/imgi_125_aluminum-safety-sign-_-joliet-il.jpg
+data/obj_train_data/imgi_135_WS22462__46690.1715107655.450.450.jpg
+data/obj_train_data/imgi_170_bbcomps7972_bos_03.jpg
+data/obj_train_data/imgi_95_danger-banner-radio-frequency-field-in-yellow-triangle-keep-out-official-HNPMRT.jpg
+data/obj_train_data/imgi_174_20843-2T.jpg
+data/obj_train_data/imgi_142_CAU0569_23e9dc75-f2fb-443e-b015-d1c9871f9026.png
+data/obj_train_data/imgi_92_WS21584__68782.1699022995.jpg
+data/obj_train_data/imgi_127_osha-safety-sign-marking-label-260nw-2403730045.jpg
+data/obj_train_data/imgi_155_WS20459__90115.1699022919.jpg
+data/obj_train_data/imgi_20_default (4).png
+data/obj_train_data/imgi_153_RWEE-10-2021-Lockwood-Figs89-725.jpg
+data/obj_train_data/imgi_146_H1551.png
+data/obj_train_data/imgi_11_default (6).png
+data/obj_train_data/1 (1).png
+data/obj_train_data/imgi_183_3368-label__79224.1739387135.png
+data/obj_train_data/imgi_124_51E1Zq-czBL.jpg
+data/obj_train_data/imgi_19_default (5).png
+data/obj_train_data/imgi_145_H1542.png
+data/obj_train_data/1 (38).png
+data/obj_train_data/imgi_139_WS20458__31466.1699022914.jpg
+data/obj_train_data/imgi_97_H1569.png
+data/obj_train_data/imgi_132_radio-frequency-fields-warning-sign-C6FHX5 (1).jpg
+data/obj_train_data/imgi_139_H1548.png
+data/obj_train_data/imgi_112_hazard-warning-signs-vector-5355160.jpg
+data/obj_train_data/imgi_174_41lsgbcdJKL._QL92_SH45_SS200_.jpg
+data/obj_train_data/imgi_160_H1549.png
+data/obj_train_data/imgi_134_711KUCh051L.jpg
+data/obj_train_data/imgi_199_RS5.png
+data/obj_train_data/imgi_148_WS-YU Caution Sign Non-Ionising Radiation Authorised Personnel Only 300mm x 200mm.jpg
+data/obj_train_data/imgi_146_custom-ghs-chemical-danger-hmig-combo-sign-s-3691.png
+data/obj_train_data/imgi_21_default (6).png
+data/obj_train_data/imgi_22_default (6).png
+data/obj_train_data/imgi_101_rf-warning-labels.jpg
+data/obj_train_data/imgi_159_radio-frequency-hazard-caution-sign-260nw-1704148294.jpg
+data/obj_train_data/imgi_110_61pmJfLKRVL.jpg
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 01_35_46 PM.png
+data/obj_train_data/imgi_9_default.png
+data/obj_train_data/imgi_103_Sign+2.jpg
+data/obj_train_data/imgi_113_warning-sign-rf-radiation-is-harmful-for-humans-and-the-environment-T9D7CG.jpg
+data/obj_train_data/imgi_138_caution-rf-hazard-sign-white-background_112413-16476.jpg
+data/obj_train_data/imgi_11_default (1).png
+data/obj_train_data/imgi_193_radio-frequency-warning.jpg
+data/obj_train_data/imgi_89_danger-keep-out-sign-s-8282.png
+data/obj_train_data/imgi_110_H1568.png
+data/obj_train_data/imgi_133__s_i_si-5587-7-d_2.jpg
+data/obj_train_data/imgi_155_q322677ml-007wb_proof_672753.png
+data/obj_train_data/imgi_113_0000807_vw-al-mc-ow-128-vw-pl-mc-ow-128-vw-dc-mc-ow-128_415.png
+data/obj_train_data/imgi_188_s-l1200.jpg
+data/obj_train_data/imgi_118_OSHA-WARNING-Sign-Radio-Frequency-Fields-Near-With-Symbol-Decal-Protect-Your-Business-Work-Site-Warehouse-Shop-Area-Made-in-the-USA_fa005e82-21.jpg
+data/obj_train_data/imgi_115_vijf-waarschuwingsborden-het-bos-groot-eiland-oktober-geplaatst-boswaarschuwing-voor-gevaarlijke-kliffen-geen-duiken-1657025.jpg
+data/obj_train_data/imgi_124_warning-rf-power-disconnect-before-260nw-1960595314.jpg
+data/obj_train_data/imgi_135_H1541.png
+data/obj_train_data/imgi_76_use-rf-monitor-antennas-sign-s-9197.png
+data/obj_train_data/imgi_139_notice-radio-frequency-environment-warning-sign-on-a-chain-link-fence-M4CNFG.jpg
+data/obj_train_data/imgi_137_WS22442__60845.1699022846.jpg
+data/obj_train_data/imgi_117_warning-radio-frequency-rf-safety-poster-500x627-1.webp
+data/obj_train_data/imgi_175_H1525BI.png
+data/obj_train_data/imgi_193_rf-warning-labels-2.jpg
+data/obj_train_data/imgi_108_H1525.png
+data/obj_train_data/imgi_22_default (9).png
+data/obj_train_data/imgi_147_536-5367057_restricted-area-radio-frequency-hazard-sign-sign-clipart.png
+data/obj_train_data/2 (37).png
+data/obj_train_data/2 (34).png
+data/obj_train_data/imgi_138_radiofrequency-radiation-present-sign-s-7370.png
+data/obj_train_data/imgi_192_warning-signs-series-three-different-260nw-215062.jpg
+data/obj_train_data/imgi_90_yellow-white-and-black-caution-high-radio-frequency-fields-warning-sign-on-block-wall-2X6KKJA.jpg
+data/obj_train_data/imgi_97_IMG_6378_600x600.jpg
+data/obj_train_data/imgi_168_7582DR-600.jpg
+data/obj_train_data/imgi_90_custom-ansi-caution-rf-sign-s-3600.gif
+data/obj_train_data/imgi_83_radiation-warning-labels.jpg
+data/obj_train_data/imgi_173_rf1.jpg
+data/obj_train_data/imgi_211_100853154-rf-radiation-hazard-square-sign.jpg
+data/obj_train_data/imgi_189_J6047.png
+data/obj_train_data/imgi_147_70466.jpg
+data/obj_train_data/imgi_145_RF-safety-sign-1-300x300.jpg
+data/obj_train_data/imgi_131_SignMission-7-x-10-in-OSHA-Warning-Sign-Hazardous-Voltage-Fed-by-Two-with-Symbol_5c91f361-7487-44bc-99bc-c3f90af46f5c.fbc2fca6d4eefa6f2a7f0102c6fc53fe.jpg
+data/obj_train_data/imgi_103_WB_blog_photos_720x.png
+data/obj_train_data/imgi_108_13556orig.jpg
+data/obj_train_data/imgi_185_yellow-white-and-black-caution-high-radio-frequency-fields-warning-sign-on-block-wall-2X6KKJA.jpg
+data/obj_train_data/imgi_124_Notice-1.jpg
+data/obj_train_data/imgi_90_custom-ansi-warning-sign-s-3601.gif
+data/obj_train_data/imgi_127_rf-warning-labels.jpg
+data/obj_train_data/imgi_135_y2442596.jpg
+data/obj_train_data/imgi_130_WV7823{1PA}-A8P-V-full.png
+data/obj_train_data/imgi_144_51LBBnJHuCL._QL92_SH45_SS200_.jpg
+data/obj_train_data/imgi_158_attention-g-tower-chipping-population-warning-yellow-road-sign-caution-zombies-walk-around-cell-conspiracy-theory-tv-radio-2.jpg
+data/obj_train_data/imgi_11_default (3).png
+data/obj_train_data/imgi_111_warning-signs-series-three-different-260nw-215062.jpg
+data/obj_train_data/imgi_212_3368-label__79224.1739387135.png
+data/obj_train_data/imgi_148_124183.jpg
+data/obj_train_data/imgi_116_high-power-rf-radiation-warning-sign-metromedia-center-mt-wilson-california-AFWTY0.jpg
+data/obj_train_data/imgi_104_ATT-Caution-2-3.jpg
+data/obj_train_data/imgi_154_H1541.png
+data/obj_train_data/imgi_113_s-l1200.jpg
+data/obj_train_data/imgi_173_warning-signs-union-city-california-K6KP05.jpg
+data/obj_train_data/imgi_158_radfreqwarning.jpg
+data/obj_train_data/imgi_107_a-cell-phone-tower-in-a-parking-lot-of-a-group-of-retail-stores-with-JH0AFY.jpg
+data/obj_train_data/imgi_189_41lsgbcdJKL._QL92_SH45_SS200_.jpg
+data/obj_train_data/imgi_128_35325.jpg
+data/obj_train_data/imgi_134_s-l400.jpg
+data/obj_train_data/imgi_177_WS41180-14__27523.1551455196.jpg
+data/obj_train_data/imgi_129_radio-frequency-sign-rf-0012_150.gif
+data/obj_train_data/imgi_141_H1547.png
+data/obj_train_data/1 (2).png
+data/obj_train_data/imgi_166_non-ionizing-radiation-hazard-safety-area-danger-warning-sign-sticker-H8G0YB.jpg
+data/obj_train_data/imgi_154_WS22210-ALT-01__59187.1626807695.jpg
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 02_02_42 PM.png
+data/obj_train_data/imgi_86_custom-ansi-warning-sign-s-3601.gif
+data/obj_train_data/imgi_142_WS22434__54819.1699022805.jpg
+data/obj_train_data/imgi_117_danger-banner-radio-frequency-field-in-yellow-triangle-keep-out-official-HNPMR6.jpg
+data/obj_train_data/2 (27).png
+data/obj_train_data/imgi_39_images.png
+data/obj_train_data/imgi_107_notice-radio-frequency-environment-warning-sign-on-a-chain-link-fence-M4CNFG.jpg
+data/obj_train_data/imgi_141_safety-signs.jpg
+data/obj_train_data/imgi_138_safety-signs.jpg
+data/obj_train_data/imgi_127_high-power-rf-radiation-warning-sign-metromedia-center-mt-wilson-california-AFWTY0.jpg
+data/obj_train_data/imgi_4_default (1).png
+data/obj_train_data/imgi_145_0000923_caution-yellow-rf-8x12_415.png
+data/obj_train_data/imgi_35_default (1).png
+data/obj_train_data/imgi_96_restricted-radio-frequency-hazard-sign-s-9194.png
+data/obj_train_data/imgi_127_129314.jpg
+data/obj_train_data/imgi_111_H1547.png
+data/obj_train_data/imgi_68_images.jpg
+data/obj_train_data/imgi_107_caution-radio-frequency-area-B9M107.jpg
+data/obj_train_data/imgi_98_laser-warning-labels.jpg
+data/obj_train_data/imgi_126_WS34600-14__56489.1553204965.jpg
+data/obj_train_data/imgi_30_default.png
+data/obj_train_data/imgi_199_warning_radio_frequency_radiation_hazard_safety_sign-520x823w.jpg
+data/obj_train_data/imgi_149_si-74400-14.jpg
+data/obj_train_data/imgi_121_rf-warning-labels.jpg
+data/obj_train_data/imgi_136_notice-high-level-of-rf-radiation-sign-on-white-background-2JPWHRW.jpg
+data/obj_train_data/imgi_101_E2259.png
+data/obj_train_data/imgi_221_warning_radio_frequency_radiation_hazard_safety_sign-520x823w.jpg
+data/obj_train_data/imgi_95_custom-ansi-caution-rf-sign-s-3600.gif
+data/obj_train_data/imgi_137_s-l1200.jpg
+data/obj_train_data/imgi_62_images.png
+data/obj_train_data/imgi_156_OSHA-Notice-Sign-Radio-Frequency-Controlled-Access-Area-Plastic-Sign-Protect-Your-Business-Work-Site-Warehouse-Shop-Area-Made-in-the-USA_53fdbe.jpg
+data/obj_train_data/imgi_96_rf-environments-work-guidelines-sign-s-6089.png
+data/obj_train_data/imgi_167_y2429036.jpg
+data/obj_train_data/imgi_152_notice_rf_guidelines.png
+data/obj_train_data/2 (35).png
+data/obj_train_data/imgi_120_johanna-finney_9.jpg
+data/obj_train_data/imgi_86_0000751_vw-al-wa-btp-675-vw-pl-wa-btp-675-vw-dc-wa-btp-675_415.png
+data/obj_train_data/imgi_135_a-sign-warning-about-radio-frequency-fields-B6P4B3.jpg
+data/obj_train_data/imgi_160_129314.jpg
+data/obj_train_data/imgi_116_y2429036.jpg
+data/obj_train_data/imgi_123_notice-rf-radiation-hazard-authorized-only-sign-on-white-background-2JPWRA5.jpg
+data/obj_train_data/imgi_166_custom-ghs-chemical-danger-hmig-combo-sign-s-3691.png
+data/obj_train_data/imgi_101_WS20468__14732.1699022964.jpg
+data/obj_train_data/imgi_107_rf-environments-work-guidelines-sign-s-6089.png
+data/obj_train_data/imgi_153_sign-warning-of-radio-frequency-health-hazard-EJNNA7.jpg
+data/obj_train_data/imgi_113_GcrTPkJW8AAwa0W.jpg
+data/obj_train_data/imgi_138_G2642.png
+data/obj_train_data/imgi_123_H1542.png
+data/obj_train_data/imgi_188_howtorecognize-img12.png
+data/obj_train_data/2 (4).png
+data/obj_train_data/imgi_178_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c8d14e3167260dd.jpg
+data/obj_train_data/imgi_159_Generic RF Safety Signs.jpg
+data/obj_train_data/imgi_136_Radio-Frequency-High-Level-Warning-Sign.webp
+data/obj_train_data/imgi_78_warning_radio_frequency_radiation_hazard_safety_sign-520x823w.jpg
+data/obj_train_data/imgi_125_1d4ad918-cd4d-5c43-a350-d9d9f9de5a35__17622.1691790913.jpg
+data/obj_train_data/imgi_179_hqdefault.jpg
+data/obj_train_data/imgi_132_NeNo2pl.jpg
+data/obj_train_data/1 (13).png
+data/obj_train_data/imgi_118_radio-frequency-hazard-sign-labels-260nw-2249118437.jpg
+data/obj_train_data/imgi_149_radio-frequency-hazard-caution-sign-260nw-1996486004.jpg
+data/obj_train_data/imgi_168_H1549.png
+data/obj_train_data/imgi_101_bbcomps4791_bb_01.jpg
+data/obj_train_data/imgi_122_warning_radio_frequency_radiation_hazard_safety_sign-520x823w.jpg
+data/obj_train_data/imgi_125_y2442596.jpg
+data/obj_train_data/imgi_175_s-l1200.jpg
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 01_26_05 PM.png
+data/obj_train_data/imgi_103_bbcomps7972_bos.jpg
+data/obj_train_data/imgi_47_default.png
+data/obj_train_data/imgi_139_osha-safety-sign-marking-label-260nw-2403730217.jpg
+data/obj_train_data/imgi_110_johanna-finney_9.jpg
+data/obj_train_data/imgi_141_caution-high-level-of-rf-radiation-sign-on-white-background-free-vector.jpg
+data/obj_train_data/imgi_132_e-on-high-voltage-electrical-260nw-1577991607.jpg
+data/obj_train_data/imgi_109_caution_118.jpg
+data/obj_train_data/imgi_87_danger-keep-out-sign-s-8282.png
+data/obj_train_data/imgi_150_cautH230-radiationcontrolledarea__74860.1364786311.png
+data/obj_train_data/imgi_137_ansiwarning1.png
+data/obj_train_data/imgi_117_yellow-white-and-black-caution-high-radio-frequency-fields-warning-sign-on-block-wall-2X6KKJA.jpg
+data/obj_train_data/imgi_201_il_570xN.4696506493_aucj.jpg
+data/obj_train_data/imgi_190_Tower Sign.jpg
+data/obj_train_data/imgi_158_laser-warning-labels.jpg
+data/obj_train_data/imgi_152_dont-touch-tower-rf-sign-s-9196.png
+data/obj_train_data/imgi_146_danger-keep-out-sign-s-8282.png
+data/obj_train_data/imgi_143_WS22444__37907.1699022856.jpg
+data/obj_train_data/imgi_103_0000925_warning-orange-rf-8x12_415.png
+data/obj_train_data/imgi_119_5g-hoboken-poles.png
+data/obj_train_data/imgi_11_default (2).png
+data/obj_train_data/imgi_182_NFPA-HMCIS-Wallet-Guide-BD-0385.gif
+data/obj_train_data/imgi_110_H1542.png
+data/obj_train_data/imgi_137_a-sign-attached-to-a-fence-warning-caution-radio-frequency-radiation-within-do-not-enter-2WJME1B.jpg
+data/obj_train_data/imgi_141_SL-SS-WAR-052.jpg
+data/obj_train_data/imgi_107_614mwMSB0zL._AC_SY200_QL15_.jpg
+data/obj_train_data/imgi_152_radio-frequency-fields-warning-sign-C6FHX5.jpg
+data/obj_train_data/imgi_151_WS-YU Caution Sign Non-Ionising Radiation Authorised Personnel Only 300mm x 200mm.jpg
+data/obj_train_data/imgi_92_0000792_vw-dc-mc-gl7-75-pack-of-5_415.png
+data/obj_train_data/sign15.png
+data/obj_train_data/imgi_138_RF-Safety-Sign.bmp
+data/obj_train_data/imgi_118_cautH138-highlevelradiofrequencyfieldsauthor__23665.1364785979.png
+data/obj_train_data/imgi_98_radio-frequency-hazard-caution-sign-s-2771.png
+data/obj_train_data/imgi_108_nonionizing-radiation-symbol-vector-illustration-260nw-1822410500.jpg
+data/obj_train_data/imgi_91_rf-radiation-hazard-warning-label-usa-F40EMY.jpg
+data/obj_train_data/imgi_95_WS20468__14732.1699022964.jpg
+data/obj_train_data/imgi_152_beyond-this-point-radio-frequency-rf-awareness-safety-poster-1-500x625-1.webp
+data/obj_train_data/imgi_131_WS-YT Warning Sign Non-Ionising Radiation Consult Site Folder 300mm x 200mm.jpg
+data/obj_train_data/imgi_188_Essex_CA%2C_GWEN_rf_rad_warning_sign.jpg
+data/obj_train_data/2 (3).png
+data/obj_train_data/imgi_146_GGU8KMgWcAEuxav.jpg
+data/obj_train_data/imgi_162_radioactive-placards-150.jpg
+data/obj_train_data/imgi_144_bbcomps4791_bb_01.jpg
+data/obj_train_data/imgi_133_61xMbhzxGeL._AC_SY200_QL15_.jpg
+data/obj_train_data/imgi_119_wireless-radiation-sign-C47K2X.jpg
+data/obj_train_data/imgi_149_related-rf-warning-signs.jpg
+data/obj_train_data/imgi_45_default.png
+data/obj_train_data/imgi_164_warning-on-a-military-vehicle-do-not-loiter-within-2m-of-any-antenna-C83HH0.jpg
+data/obj_train_data/imgi_141_Warning-1.jpg
+data/obj_train_data/imgi_197_WS20469__97150.1699022969.jpg
+data/obj_train_data/imgi_91_rf-microwave-hazard-caution-sign-s-6091.png
+data/obj_train_data/imgi_94_radio-frequency-fields-warning-sign-s-6088.png
+data/obj_train_data/sign9.png
+data/obj_train_data/imgi_21_default (10).png
+data/obj_train_data/imgi_82_endwfyad9j3c1.jpg
+data/obj_train_data/imgi_128_H1525.png
+data/obj_train_data/imgi_157_0000927_rf-safety-guidelines-8x12_550.png
+data/obj_train_data/imgi_144_OSHA-Notice-Sign-Radio-Frequency-Controlled-Access-Area-Plastic-Sign-Protect-Your-Business-Work-Site-Warehouse-Shop-Area-Made-in-the-USA_53fdbe.jpg
+data/obj_train_data/imgi_169_H1541.png
+data/obj_train_data/imgi_153_GD-bC5JXIAE1E3o.jpg
+data/obj_train_data/imgi_161__s_i_si-65195-12.jpg
+data/obj_train_data/imgi_112_high-power-rf-radiation-warning-sign-metromedia-center-mt-wilson-california-AFWTY0.jpg
+data/obj_train_data/imgi_76_Radio-Frequency-Radiation-With-Symbol-OSHA-WARNING-Vinyl-Decal-Label-5-Inch-x-3-5-Inch-10-Pack_64c24432-9988-4ead-9b1d-1f8d89d203c9.c50cdd172bf5.jpg
+data/obj_train_data/imgi_111_s-l1200.jpg
+data/obj_train_data/imgi_166_bbcomps7972_bos.jpg
+data/obj_train_data/imgi_118_d83d0e6b83a772bd4225c6fa4dfd4874789ba3f431050e87d5ecc1f6850fc25f_1.jpg
+data/obj_train_data/imgi_135_hazard-warning-safety-signs-vector-22923972.jpg
+data/obj_train_data/imgi_103_RWEE-10-2021-Lockwood-Figs123-725w.jpg
+data/obj_train_data/1 (23).png
+data/obj_train_data/imgi_42_images.png
+data/obj_train_data/imgi_168_WS22344__29464.1597959001.jpg
+data/obj_train_data/imgi_130_stock-photo-uk-yellow-sign-caution-overhead-fibre-taken-from-a-telecommunications-pole-with-black-writing-up-2299573449.jpg
+data/obj_train_data/imgi_114_H1551BI.png
+data/obj_train_data/imgi_14_default (1).png
+data/obj_train_data/imgi_155_CAU0527_a55fba20-e89b-46a3-87dc-443d3de1af56.png
+data/obj_train_data/imgi_190_danger-rf-hazard-sign-white-background-254420066.jpg
+data/obj_train_data/imgi_125_hq720.jpg
+data/obj_train_data/imgi_190_H1543BI.png
+data/obj_train_data/imgi_110_LS33412-46__58542.1571333380.jpg
+data/obj_train_data/imgi_134_radio-frequency-hazard-caution-sign-s-2771.png
+data/obj_train_data/imgi_24_default.png
+data/obj_train_data/imgi_164_danger-rf-radiation-hazard-authorized-only-sign-white-background_112413-2767.jpg
+data/obj_train_data/imgi_6_default (4).png
+data/obj_train_data/imgi_125_radio-frequency-warning-sign-11085905.jpg
+data/obj_train_data/imgi_15_default (10).png
+data/obj_train_data/imgi_134__s_i_si-5357-14.jpg
+data/obj_train_data/imgi_152_WS_YC_3.jpg
+data/obj_train_data/imgi_135_124183.jpg
+data/obj_train_data/imgi_204_osha-safety-sign-marking-label-260nw-2403730213.jpg
+data/obj_train_data/imgi_38_default.png
+data/obj_train_data/imgi_161_DN_5-ways-floor-marking_Header.png
+data/obj_train_data/imgi_135_s-l1200.jpg
+data/obj_train_data/imgi_12_default (3).png
+data/obj_train_data/imgi_159_7582DR-180.jpg
+data/obj_train_data/imgi_39_default.png
+data/obj_train_data/imgi_4_default (2).png
+data/obj_train_data/imgi_95_26e5cd0704c431d6b2e7b863b3dabce8.jpg
+data/obj_train_data/imgi_142_warning-high-level-of-rf-radiation-sign-on-white-background-2JR5GPG.jpg
+data/obj_train_data/imgi_141_images.jpg
+data/obj_train_data/imgi_121_Verizon-5G-Antenna-Warning-Sign.jpg
+data/obj_train_data/imgi_150_radio-frequency-hazard-sign-s-2791.png
+data/obj_train_data/imgi_45_images.jpg
+data/obj_train_data/imgi_140_s-l1200.jpg
+data/obj_train_data/imgi_127_H1542.png
+data/obj_train_data/imgi_168_Vision Signs and Graphics Inc dba Sign Mission_OSxxDSxxParxxVxx2293xxdf353d.jpg
+data/obj_train_data/imgi_37_default.jpg
+data/obj_train_data/imgi_19_default (9).png
+data/obj_train_data/imgi_123_chemical-hazard-icon-radioactive-warning-260nw-2382991531.jpg
+data/obj_train_data/imgi_24_default (6).png
+data/obj_train_data/imgi_25_default (2).png
+data/obj_train_data/imgi_133_6403.png
+data/obj_train_data/imgi_11_default (5).png
+data/obj_train_data/imgi_6_default (3).png
+data/obj_train_data/imgi_91_WS20469__97150.1699022969.jpg
+data/obj_train_data/imgi_195_notice_rf_guidelines.png
+data/obj_train_data/imgi_111_radio-frequency-hazard-caution-sign-260nw-1704148294.jpg
+data/obj_train_data/imgi_27_default (2).png
+data/obj_train_data/imgi_52_images.png
+data/obj_train_data/1 (11).png
+data/obj_train_data/imgi_167_radio-frequency-hazard-sign-labels-260nw-2249118417.jpg
+data/obj_train_data/imgi_164_WV7823{1PA}-A8P-V-full.png
+data/obj_train_data/imgi_176_icon-radiation-hazard-warning-symbol-2UYivLqK_t.jpg
+data/obj_train_data/imgi_152_61Hyfd-ZOcL.jpg
+data/obj_train_data/imgi_75_pacemaker-warning-signage.jpg
+data/obj_train_data/imgi_102_H1543BI.png
+data/obj_train_data/imgi_89_J6047.png
+data/obj_train_data/imgi_107_1920_img-35492.jpg
+data/obj_train_data/imgi_85_radio-frequency-safety-signs.png
+data/obj_train_data/imgi_96_danger-keep-out-sign-s-8282.png
+data/obj_train_data/imgi_161_bbcomps7972_bos_04.jpg
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 12_48_19 PM.png
+data/obj_train_data/imgi_246_labels.png
+data/obj_train_data/imgi_151_WS33384-14__64597.1550679918.jpg
+data/obj_train_data/imgi_90_WS21584__68782.1699022995.jpg
+data/obj_train_data/imgi_160_Essex_CA%2C_GWEN_rf_rad_warning_sign.jpg
+data/obj_train_data/imgi_136_MFG_124181.jpg
+data/obj_train_data/imgi_138_rwf-skall-category-3-201x300.jpg
+data/obj_train_data/imgi_164_yellow-warning-hazard-radio-emission-sign_158677-1019.jpg
+data/obj_train_data/imgi_132__s_i_si-5588-14.jpg
+data/obj_train_data/imgi_172_rf-signsa.jpg
+data/obj_train_data/imgi_96_sign-warning-of-radio-frequency-health-hazard-EJNNA7.jpg
+data/obj_train_data/1 (16).png
+data/obj_train_data/imgi_121_warning-sign-with-symbols-for-dangerous-high-voltage-and-radio-frequency-C4YRNF.jpg
+data/obj_train_data/imgi_106_radioactive-pollution-yellow-warning-sign-260nw-2446055719.jpg
+data/obj_train_data/imgi_158_q322677ml-007wb_proof_672753.png
+data/obj_train_data/imgi_187_close-up-view-french-sign-quebec-canada-saying-danger-intense-emission-radio-frequencies-no-entry-forbidden-cell-site-168758661.jpg
+data/obj_train_data/imgi_139_radiation-warning-sign-scorched-earth-260nw-2642387517.jpg
+data/obj_train_data/imgi_77_WS33412-14__27796.1551465760.jpg
+data/obj_train_data/imgi_162_H1526.png
+data/obj_train_data/imgi_98_radiofrequency-radiation-present-sign-s-7370.png
+data/obj_train_data/imgi_171_Allen-1-Web.jpg
+data/obj_train_data/imgi_131_radio-frequency-sign-rf-16364_1000.gif
+data/obj_train_data/imgi_113_H1527.png
+data/obj_train_data/imgi_162_1200px-Radio_waves_hazard_symbol.svg.png
+data/obj_train_data/imgi_104_OSHA-Notice-Sign-No-Trespassing-Private-Property-Attempts-Decal-Protect-Your-Business-Construction-Site-Made-in-the-USA_1f3f42fe-3084-4c90-afcf.jpg
+data/obj_train_data/imgi_84_radio-frequency-warning.jpg
+data/obj_train_data/imgi_177_81mo-VcbIjL.jpg
+data/obj_train_data/imgi_124_WS22210-ALT-01__59187.1626807695.jpg
+data/obj_train_data/imgi_176_WS22463__65906.1715107659.jpg
+data/obj_train_data/imgi_212_wireless-radiation-sign-C47K2X.jpg
+data/obj_train_data/imgi_7_default (6).png
+data/obj_train_data/imgi_17_default (10).png
+data/obj_train_data/imgi_154_danger-rf-radiation-hazard-authorized-only-sign-white-background_112413-18033.jpg
+data/obj_train_data/imgi_103_H1545.png
+data/obj_train_data/imgi_203_H1543BI.png
+data/obj_train_data/imgi_144_CautionHighLevelRadioFrequencyFieldsSign_530x@2x.png
+data/obj_train_data/imgi_178__s_i_si-5539-14.jpg
+data/obj_train_data/imgi_102_radio-waves-hazard-warning-sign-250nw-347918726.jpg
+data/obj_train_data/imgi_227_1d4ad918-cd4d-5c43-a350-d9d9f9de5a35__17622.1691790913.jpg
+data/obj_train_data/imgi_172_H1545.png
+data/obj_train_data/imgi_143_144528.jpg
+data/obj_train_data/imgi_134_SignMission-10-x-14-in-OSHA-Notice-Sign-Radio-Frequency-Free-Zone-No-Two-Way-Radios-or-Cell-Phones_7f9fab5b-e35c-47ff-ad81-2183135796b6.7dfd07b.jpg
+data/obj_train_data/imgi_102_bbcomps4791_bb_03.jpg
+data/obj_train_data/1 (35).png
+data/obj_train_data/imgi_168_Warning-2-800x531.jpg
+data/obj_train_data/imgi_77_s-l400.jpg
+data/obj_train_data/imgi_136_mqdefault.jpg
+data/obj_train_data/imgi_115_yellow.png
+data/obj_train_data/imgi_99_maui-hawaii-usa-waianapanapa-state-park-beach-warning-signs-jelly-fish-2WYFXRC.jpg
+data/obj_train_data/imgi_123_radio-fields-warning-sign-14553259.jpg
+data/obj_train_data/imgi_16_default (4).png
+data/obj_train_data/imgi_108_rf-warning-labels.jpg
+data/obj_train_data/imgi_137_radio-frequency-warning-sign-s-2967.png
+data/obj_train_data/imgi_135_dangercatalogpage-1.png
+data/obj_train_data/imgi_105_caution-radio-transmitters-operating-warning-sign-on-a-metal-gate-at-a-uk-mobile-cell-phone-tower-2EHAPTK.jpg
+data/obj_train_data/imgi_115_RWEE-10-2021-Lockwood-Figs123-725w.jpg
+data/obj_train_data/imgi_93_radio-frequency-label-label_triangle_10_a_1000.gif
+data/obj_train_data/imgi_19_default (8).png
+data/obj_train_data/imgi_121_laser-warning-labels.jpg
+data/obj_train_data/imgi_22_default (5).png
+data/obj_train_data/imgi_159_H1520.png
+data/obj_train_data/imgi_134_rfsafety-140106161656-phpapp02-thumbnail.jpg
+data/obj_train_data/imgi_74_warning-authorized-personnel-only-signs.jpg
+data/obj_train_data/imgi_144_radio-frequency-sign-rf-17184_1000_3.gif
+data/obj_train_data/imgi_118_danger-high-level-of-rf-radiation-sign-on-white-background-free-vector.jpg
+data/obj_train_data/imgi_17_default (4).png
+data/obj_train_data/imgi_119_H1545.png
+data/obj_train_data/imgi_134_warning-radio-antenna-tower-conceptual-vector-with-text-2X5KX0K.jpg
+data/obj_train_data/imgi_158_analytical-x-ray.png
+data/obj_train_data/imgi_159_ansi-z535-safety-sign-marking-260nw-2403730031.jpg
+data/obj_train_data/imgi_27_default (7).png
+data/obj_train_data/imgi_107_614mwMSB0zL._AC_SY200_QL15_ (1).jpg
+data/obj_train_data/imgi_179__s_i_si-5590-14.jpg
+data/obj_train_data/imgi_5_default.png
+data/obj_train_data/imgi_89_Radio-Frequency-Radiation-With-Symbol-OSHA-WARNING-Vinyl-Decal-Label-5-Inch-x-3-5-Inch-10-Pack_64c24432-9988-4ead-9b1d-1f8d89d203c9.c50cdd172bf5.jpg
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 12_51_57 PM.png
+data/obj_train_data/1.png
+data/obj_train_data/imgi_9_default (4).png
+data/obj_train_data/imgi_134_cb23e79a-7b9c-425c-bc62-8f342d517cc7.8605350ee0509c248fc50a8ce53b534b.jpg
+data/obj_train_data/imgi_69_radio-frequency-fields-notice-sign-s-6083.png
+data/obj_train_data/imgi_177_97228467-non-ionizing-radiation-warning-sign-hazard-symbols.jpg
+data/obj_train_data/imgi_125_0000739_vw-pc-ca-btp-675_415.png
+data/obj_train_data/imgi_204_E106_5841_595.jpg
+data/obj_train_data/imgi_145_radio-frequency-sign-rf-17184_1000_3.gif
+data/obj_train_data/imgi_81_orange.png
+data/obj_train_data/imgi_131_signs_small.jpg
+data/obj_train_data/imgi_35_default.jpg
+data/obj_train_data/imgi_116_H1551.png
+data/obj_train_data/imgi_146_notice-radio-frequency-environment-warning-sign-on-a-chain-link-fence-M4CNFG.jpg
+data/obj_train_data/imgi_13_default.png
+data/obj_train_data/imgi_132_high-warning-excessive-radio-frequency-fields-authori-sign-3111.png
+data/obj_train_data/2 (9).png
+data/obj_train_data/imgi_201_blue.png
+data/obj_train_data/imgi_97_611620PbFBL.jpg
+data/obj_train_data/imgi_86_H1525 (1).png
+data/obj_train_data/imgi_174_non-ionizing-radiation-board-symbol-radiation-hazard-indicating-caution-non-ionizing-radiation-radiation-exposure-alert-warning-radio-frequency.jpg
+data/obj_train_data/imgi_114_1.jpg
+data/obj_train_data/imgi_180_il_300x300.2099737801_jsy5.jpg
+data/obj_train_data/imgi_62_71gdCTcSmgL.jpg
+data/obj_train_data/imgi_129_Screenshot_20200226-072356155-1.jpg
+data/obj_train_data/imgi_122_non-ionizing-radiation-hazard-safety-area-danger-warning-text-sign-H8G0YC.jpg
+data/obj_train_data/imgi_148_41a9ebxsjXL._UY250_SCLZZZZZZZ_.jpg
+data/obj_train_data/imgi_99_il_fullxfull.4696506493_aucj.jpg
+data/obj_train_data/imgi_127_H1548.png
+data/obj_train_data/imgi_145_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c8d14e3167260dd.jpg
+data/obj_train_data/imgi_76_61FT1qCspEL.jpg
+data/obj_train_data/imgi_117_WS33411-14__51571.1551465757.jpg
+data/obj_train_data/imgi_141_124183.jpg
+data/obj_train_data/imgi_186_61iaq1SE-iL.jpg
+data/obj_train_data/imgi_173_E2259BI.png
+data/obj_train_data/imgi_151_6405a.png
+data/obj_train_data/2 (30).png
+data/obj_train_data/imgi_112_H1541.png
+data/obj_train_data/imgi_121_bbcomps7972_bos.jpg
+data/obj_train_data/imgi_168_warning_signs_blog.jpg
+data/obj_train_data/imgi_202_T-Mobile RF signs thumb.png
+data/obj_train_data/imgi_33_default.png
+data/obj_train_data/imgi_123_H1543.png
+data/obj_train_data/imgi_109_rwf-skall-category-3-201x300.jpg
+data/obj_train_data/imgi_23_default (1).png
+data/obj_train_data/imgi_137_35325.jpg
+data/obj_train_data/imgi_87_WS-YD Caution Sign Do Not Stand Closer Than 1 Metre From This Antenna 300mm x 200mm.jpg
+data/obj_train_data/imgi_101_image-96.jpg
+data/obj_train_data/imgi_143_rf-warning-labels-2.jpg
+data/obj_train_data/imgi_189_SignMission-12-x-18-in-OSHA-Safety-Instructions-Sign-Beyond-This-Point-Radio-Frequency-with-Symbol_14e12512-5a42-45df-a700-d.jpg
+data/obj_train_data/imgi_104_WS-RL Warning Sign Beyond This Point RF Field Exists 300mm x 200mm.jpg
+data/obj_train_data/imgi_120_rf-warning-labels.jpg
+data/obj_train_data/imgi_32_default (4).jpg
+data/obj_train_data/imgi_132_WS33284-14__53237.1549394546.1280.1280.jpg
+data/obj_train_data/imgi_167_H1548.png
+data/obj_train_data/imgi_97_61nDS7305EL.jpg
+data/obj_train_data/imgi_155_cliff-fall-warning-signs-yellow-set-vector-41500280.jpg
+data/obj_train_data/1 (30).png
+data/obj_train_data/imgi_155_bbcomps7972_bos.jpg
+data/obj_train_data/imgi_152_WV7803-A7L-3M-th.png
+data/obj_train_data/imgi_116_custom-ansi-warning-sign-s-3601.gif
+data/obj_train_data/imgi_185_s-l400.jpg
+data/obj_train_data/imgi_138_danger-risk-warning-icons-set-DN7PJM.jpg
+data/obj_train_data/imgi_94_0000794_vw-al-mc-yc-128-vw-pl-mc-yc-128-vw-dc-mc-yc-128_415.png
+data/obj_train_data/imgi_80_51h13i0R5bL.jpg
+data/obj_train_data/imgi_164_SIGNRFWARN2.jpg
+data/obj_train_data/imgi_120_non-ionizing-radiation-symbol-radiation-hazard-indicating-non-ionizing-radiation-radiation-exposure-alert-warning-radio-frequency-hazards-attenti-2XTD7AD.jpg
+data/obj_train_data/imgi_122_yellow-white-and-black-caution-high-radio-frequency-fields-warning-sign-on-block-wall-2X6KKJA.jpg
+data/obj_train_data/imgi_190_0000921_generic-rf-safety-signs_450.jpg
+data/obj_train_data/imgi_145_warning-rf-hazard-sign-on-white-background-2JPWJ97.jpg
+data/obj_train_data/imgi_180_labels.png
+data/obj_train_data/imgi_122_radio-frequency-fields-caution-sign-s-6079.png
+data/obj_train_data/imgi_185_WS20465__37310.1699022949.jpg
+data/obj_train_data/imgi_151_wireless-radiation-sign-C47K2Y.jpg
+data/obj_train_data/imgi_124_caution-rf-hazard-sign-on-white-background-free-vector.jpg
+data/obj_train_data/2 (44).png
+data/obj_train_data/imgi_124_q322677ml-001wb_proof_6723312.jpg
+data/obj_train_data/imgi_15_default (3).png
+data/obj_train_data/imgi_142_non-ionizing-radiation-hazard-safety-area-danger-warning-text-sign-H8G0YC.jpg
+data/obj_train_data/imgi_189_2-Pack-Possible-RF-Radiation-With-Symbol-OSHA-Caution-Radiation-Sign_988e616f-b7ee-4d8f-bd37-240181b2d5b6.47e98b5a0ca4e472347494e55fa4619f.jpg
+data/obj_train_data/imgi_57_images.png
+data/obj_train_data/imgi_132_H1527.png
+data/obj_train_data/imgi_132_H1551.png
+data/obj_train_data/imgi_154__s_i_si-4403-14.jpg
+data/obj_train_data/imgi_160_telus-radio-frequency-energy-area-warning-sign-no-trespassing-small-fenced-enclosure-ottawa-canada-warns-around-cell-1975084.jpg
+data/obj_train_data/imgi_100_6404.5a.png
+data/obj_train_data/imgi_217_caution-radio-frequency-area-B9M107.jpg
+data/obj_train_data/imgi_38_images.jpg
+data/obj_train_data/imgi_105_SignMission-10-x-14-in-OSHA-Notice-Sign-Radio-Frequency-Free-Zone-No-Two-Way-Radios-or-Cell-Phones_7f9fab5b-e35c-47ff-ad81-2.jpg
+data/obj_train_data/imgi_84_RD-WS-M-001.jpg
+data/obj_train_data/imgi_106_2-Pack-Possible-RF-Radiation-With-Symbol-OSHA-Caution-Radiation-Sign_988e616f-b7ee-4d8f-bd37-240181b2d5b6.47e98b5a0ca4e472347494e55fa4619f.jpg
+data/obj_train_data/imgi_27_default (5).png
+data/obj_train_data/imgi_259_caution-warning-signs-set-iii-20267.jpg
+data/obj_train_data/imgi_177_warning-rf-hazard-sign-on-white-background-2JPWJ97.jpg
+data/obj_train_data/imgi_129_radfreqwarning.jpg
+data/obj_train_data/imgi_165_51CRaBazumL.jpg
+data/obj_train_data/imgi_172_MRAD644__48925.1722864008.190.285.jpg
+data/obj_train_data/imgi_145_8018H-ISO.png
+data/obj_train_data/imgi_20_default (1).png
+data/obj_train_data/imgi_131_maxresdefault.jpg
+data/obj_train_data/imgi_191_60cb775d96edebf17bd75d57_0002302.jpg
+data/obj_train_data/imgi_181_OSHA-Danger-Sign-Beyond-This-Point-Radio-Frequency-Fields-Decal-Protect-Your-Business-Construction-Site-Shop-Area-Made-in-Th.jpg
+data/obj_train_data/imgi_100_pigeontrap-450x337.jpg
+data/obj_train_data/imgi_171_warning-signs-series-three-different-260nw-215062.jpg
+data/obj_train_data/imgi_143_rf-warning-labels.jpg
+data/obj_train_data/imgi_157_CAU0527_a55fba20-e89b-46a3-87dc-443d3de1af56_600x600_crop_center.png
+data/obj_train_data/imgi_88_H1523.png
+data/obj_train_data/imgi_174_CPC-2-0-20-warningrf-eng.jpg
+data/obj_train_data/imgi_167_s-l1200.jpg
+data/obj_train_data/imgi_16_default (5).png
+data/obj_train_data/imgi_93_radio-frequency-safety-signs.png
+data/obj_train_data/imgi_32_default (1).jpg
+data/obj_train_data/imgi_12_default (9).png
+data/obj_train_data/imgi_84_46474339855_901abe447c_z.jpg
+data/obj_train_data/imgi_120_set-of-triangular-warning-hazard-signs-black-E19YE2.jpg
+data/obj_train_data/imgi_123_q322677ml-007wb_proof_672753.png
+data/obj_train_data/imgi_22_default.png
+data/obj_train_data/imgi_44_images.png
+data/obj_train_data/imgi_157_beware-opening-door-warning-sign-260nw-2493945813.jpg
+data/obj_train_data/imgi_164_129344.jpg
+data/obj_train_data/imgi_148_7582DR-600.jpg
+data/obj_train_data/imgi_189_radiation-hazard-indicating-non-ionizing-radiation-risk-with-safety-precautions-needed-vector.jpg
+data/obj_train_data/imgi_109_H1526.png
+data/obj_train_data/imgi_34_default (2).png
+data/obj_train_data/imgi_24_default (7).png
+data/obj_train_data/imgi_81_omjl6tap9tpa1.png
+data/obj_train_data/imgi_140_Danger-0850-PDS.png
+data/obj_train_data/imgi_135_optical-radiation-emission-symbol-sign-2767765.jpg
+data/obj_train_data/imgi_156_stock-photo-radiation-hazard-symbol-sign-of-radhaz-threat-alert-icon-black-yellow-triangle-signage-text-88654858.jpg
+data/obj_train_data/1 (45).png
+data/obj_train_data/imgi_111_IMG_6378_600x600.jpg
+data/obj_train_data/imgi_133_OS-2PACK-NS-A-1218-L-17711-2.jpg
+data/obj_train_data/imgi_140_notice-rf-radiation-hazard-authorized-only-sign-white-background_112413-15038.jpg
+data/obj_train_data/imgi_117_s-l400.jpg
+data/obj_train_data/imgi_179_dont-touch-tower-rf-sign-s-9196.png
+data/obj_train_data/imgi_100_site+safety+notice+sign.jpg
+data/obj_train_data/imgi_162_dont-touch-tower-rf-sign-s-9196.png
+data/obj_train_data/imgi_120_Warning-Sign-Rf-Microwave-Energy-Controlled-Area-Contact-Before-Entering-7-x10-Plastic-Safety-Sign-ansi-osha_0ed062b3-01c4-4148-8abd-aee784afea.jpg
+data/obj_train_data/imgi_134_microwave-energy-warning-ansi-sign-s-2956.png
+data/obj_train_data/imgi_152_124183.jpg
+data/obj_train_data/imgi_159_nuclear-hazard-warning-icon-radiation-260nw-2647314213.jpg
+data/obj_train_data/imgi_139_radiation-hazard-symbol-sign-radhaz-260nw-88654858.jpg
+data/obj_train_data/imgi_125_warning-rf-radiation-hazard-authorized-only-sign-white-background_112413-16230.jpg
+data/obj_train_data/imgi_175_radio-frequency-hazard-sign-labels-260nw-2249118405.jpg
+data/obj_train_data/imgi_133_H1543BI.png
+data/obj_train_data/imgi_23_default (4).png
+data/obj_train_data/imgi_177_7582DR-600.jpg
+data/obj_train_data/imgi_194_2893.png
+data/obj_train_data/imgi_100__s_i_si-4975-14.jpg
+data/obj_train_data/imgi_178_il_570xN.4446956556_chme.jpg
+data/obj_train_data/imgi_138_124183.jpg
+data/obj_train_data/imgi_100_notice-radio-frequency-environment-warning-sign-on-a-chain-link-fence-M4CNFG.jpg
+data/obj_train_data/imgi_131_rf-warning-signs.jpg
+data/obj_train_data/imgi_102_labels.png
+data/obj_train_data/imgi_196_-2018-09-21_RF-Radiation_Hazard%2C_Trimingham_Cliffs.jpg
+data/obj_train_data/imgi_226_3370-label__45443.1739387138.png
+data/obj_train_data/imgi_101__s_i_si-4943-14.jpg
+data/obj_train_data/imgi_98_custom-ansi-notice-sign-s-3599.gif
+data/obj_train_data/imgi_101_3zoaNvCZKxGbeEvkbt4KmgoqcJ69p8D0DPofQll8rP8.jpg
+data/obj_train_data/imgi_123_radio-frequency-sign-rf-0016_1000_2.gif
+data/obj_train_data/imgi_25_default.png
+data/obj_train_data/imgi_142_9ccc0403ab039c4fa2c63ae86cfa5bcd.jpg
+data/obj_train_data/imgi_109_warning_radio_frequency_radiation_hazard_safety_sign-550x385.jpg
+data/obj_train_data/imgi_135_WS22344__29464.1597959001.450.450.jpg
+data/obj_train_data/imgi_89_s-l1200.png
+data/obj_train_data/imgi_84_notice-radio-frequency-environment-warning-sign-on-a-chain-link-fence-M4CNFG.jpg
+data/obj_train_data/imgi_120_custom-ansi-caution-rf-sign-s-3600.gif
+data/obj_train_data/imgi_192_beyond-this-point-radio-frequency-rf-awareness-safety-poster-1-500x625-1.webp
+data/obj_train_data/imgi_93_a-pesticide-warning-sign-seen-here-in-a-march-21-1994-file-photo-is-posted-in-a-strawberry-field-located-next-to-the-ohlone-e.jpg
+data/obj_train_data/imgi_157_notice-rf-hazard-sign-white-background-notice-rf-hazard-sign-white-background-254114031.jpg
+data/obj_train_data/imgi_111_8018H-ISO.png
+data/obj_train_data/imgi_177_H1548.png
+data/obj_train_data/imgi_131_beyond-this-point-radio-frequency-rf-awareness-safety-poster-1-500x625-1.webp
+data/obj_train_data/imgi_127_H1544.png
+data/obj_train_data/imgi_116_SIGNRFWARN2.jpg
+data/obj_train_data/imgi_167_electromagneticwave.jpg
+data/obj_train_data/imgi_106_telecom-warning-sign-on-telephone-pole-BA5PWT.jpg
+data/obj_train_data/imgi_131_WS-BL Warning Sign Non-Ionising Radiation Fields Beyond This Point 300mm x 200mm.jpg
+data/obj_train_data/imgi_89_custom-ansi-warning-sign-s-3601.gif
+data/obj_train_data/imgi_109_Verizon-5G-Antenna-Warning-Sign.jpg
+data/obj_train_data/1 (15).png
+data/obj_train_data/imgi_74_radio-frequency-fields-caution-sign-s-6079.png
+data/obj_train_data/imgi_117_35325.jpg
+data/obj_train_data/imgi_136_rf-warning-labels.jpg
+data/obj_train_data/imgi_12_default (4).png
+data/obj_train_data/imgi_107_radio-frequency-fields-caution-sign-s-6079_pl.png
+data/obj_train_data/1 (10).png
+data/obj_train_data/imgi_101_H1544.png
+data/obj_train_data/imgi_147_il_300x300.2099737801_jsy5.jpg
+data/obj_train_data/imgi_91_rwf-skall-category-4a-201x300.jpg
+data/obj_train_data/imgi_31_default (2).png
+data/obj_train_data/imgi_178_OS-2PACK-NS-A-1824-L-17711-2.jpg
+data/obj_train_data/imgi_146_orange.png
+data/obj_train_data/imgi_152__s_i_si-5590-14.jpg
+data/obj_train_data/imgi_147_61EAxTIcnHL.jpg
+data/obj_train_data/imgi_129_H1542BI.png
+data/obj_train_data/imgi_155_WS20458__31466.1699022914.jpg
+data/obj_train_data/imgi_175_0000925_warning-orange-rf-8x12_415.png
+data/obj_train_data/imgi_173_hazard-warning-signs-around-radio-transmitter-br7887.jpg
+data/obj_train_data/imgi_217_D00396__85928.1601041983.png
+data/obj_train_data/imgi_123_rwf-skall-category-4a-201x300.jpg
+data/obj_train_data/1 (25).png
+data/obj_train_data/sign4.png
+data/obj_train_data/imgi_170_WV7823{1LA}-A5L-HV-th.png
+data/obj_train_data/imgi_147_non-ionizing-radiation-caution-warning-symbol-design-vector.jpg
+data/obj_train_data/imgi_106_H1548.png
+data/obj_train_data/imgi_131_xrfs2e3p8me81.jpg
+data/obj_train_data/imgi_13_default (3).png
+data/obj_train_data/2 (36).png
+data/obj_train_data/imgi_130_H1567.png
+data/obj_train_data/imgi_161_610PRCVPvpL.jpg
+data/obj_train_data/imgi_169_notice-sign-microwave-hazard-in-this-area-with-symbol-2NFK6GX.jpg
+data/obj_train_data/imgi_121_7582DR-600.jpg
+data/obj_train_data/imgi_6_default (10).png
+data/obj_train_data/imgi_103_warning-rf-hazard-sign-on-white-background-2JPWRY4.jpg
+data/obj_train_data/imgi_143_rf-microwave-hazard-caution-sign-s-6091.png
+data/obj_train_data/imgi_80_radio-frequency-fields-warning-sign-s-6088.png
+data/obj_train_data/imgi_180_high-power-rf-radiation-warning-sign-metromedia-center-mt-wilson-california-AFWTY0.jpg
+data/obj_train_data/imgi_135_alert-about-electromagnetic-pollution-exposure-260nw-2510845285.jpg
+data/obj_train_data/imgi_92_warning-sign-at-the-bottom-of-a-cellular-mobile-phone-transmitter-mast-M9GR30.jpg
+data/obj_train_data/imgi_8_default (1).png
+data/obj_train_data/imgi_119_warning-high-level-of-rf-radiation-sign-on-white-background-2JR5GPG.jpg
+data/obj_train_data/imgi_175_radio-frequency-hazard-symbol-electromagnetic-radiation-and-health-warning-sign-png-favpng-N1Y3J9EJRYif5zM1mP9UmZQcG.jpg
+data/obj_train_data/imgi_96_71xA5E9JXGL.jpg
+data/obj_train_data/imgi_110_warning-highly-toxic-handle-care-260nw-1305643624.jpg
+data/obj_train_data/imgi_120_a-sign-warning-about-radio-frequency-fields-B6P4B3.jpg
+data/obj_train_data/imgi_112_bb437723-e662-4188-b991-2f80ac095d36_1140x641.jpg
+data/obj_train_data/1 (27).png
+data/obj_train_data/imgi_154_non-ionizing-radiation-caution-warning-symbol-design-vector.jpg
+data/obj_train_data/imgi_13_default (9).png
+data/obj_train_data/imgi_110_multiple-warning-signs-attached-wire-260nw-1820348891.jpg
+data/obj_train_data/imgi_150_electromagnetic-spectrum-restricted.png
+data/obj_train_data/imgi_166_LS33412-46__58542.1571333380.jpg
+data/obj_train_data/imgi_96_radfreqwarning.jpg
+data/obj_train_data/imgi_240_caution-rf-radiation-hazard-authorized-sign-white-background-254037613.jpg
+data/obj_train_data/imgi_146_rf-radio-frequency-antenna.jpg
+data/obj_train_data/imgi_92_warning-rf-radiation-hazard-authorized-only-sign-on-white-background-2JR5GYM.jpg
+data/obj_train_data/imgi_93_WV7823{1SQ}-S10-V-th.png
+data/obj_train_data/imgi_183_warning-signs-series-three-different-260nw-215062.jpg
+data/obj_train_data/imgi_185_-2018-09-21_RF-Radiation_Hazard%2C_Trimingham_Cliffs.jpg
+data/obj_train_data/imgi_141_rf-warning-labels-2.jpg
+data/obj_train_data/imgi_152_H1547.png
+data/obj_train_data/imgi_121_H1527.png
+data/obj_train_data/imgi_159_caution-warning-signs-set-iii-20267.jpg
+data/obj_train_data/imgi_9_images.png
+data/obj_train_data/imgi_123_Radio-Frequency-High-Level-Warning-Sign.jpg
+data/obj_train_data/imgi_126_4721649829_270fb62238_b.jpg
+data/obj_train_data/imgi_124_Caution-TMO.jpg
+data/obj_train_data/imgi_207_3370-label__45443.1739387138.png
+data/obj_train_data/imgi_7_default (3).jpg
+data/obj_train_data/imgi_148_warning-sign-microwave-hazard-in-this-area-with-symbol-2NH7P31.jpg
+data/obj_train_data/imgi_131_Radio-Frequency-Radiation-With-Symbol-OSHA-WARNING-Vinyl-Decal-Label-5-Inch-x-3-5-Inch-10-Pack_64c24432-9988-4ead-9b1d-1f8d89d203c9.c50cdd172bf.jpg
+data/obj_train_data/imgi_117_yellow-white-and-black-caution-high-radio-frequency-fields-warning-sign-on-block-wall-2X6KKJA (1).jpg
+data/obj_train_data/imgi_133_warning-signs-series-three-different-260nw-215062.jpg
+data/obj_train_data/imgi_160_hq720.jpg
+data/obj_train_data/imgi_150_warning-signs-series-three-different-260nw-215062.jpg
+data/obj_train_data/imgi_125_H1525.png
+data/obj_train_data/imgi_106_CF-mount-1-236x300.jpg
+data/obj_train_data/imgi_145_61+klfLasgL.jpg
+data/obj_train_data/imgi_107_hazard-warning-signs-set-2-F43NEY.jpg
+data/obj_train_data/imgi_109_2412283372_18f9c34a7a_z.jpg
+data/obj_train_data/imgi_111_radio-frequency-sign-rf-17184_1000_3.gif
+data/obj_train_data/imgi_172_D5750.png
+data/obj_train_data/imgi_102_radio-frequency-sign-rf-17184_1000_3.gif
+data/obj_train_data/imgi_125_caution-radio-wave-warning-sign-black-background-radio-frequency-hazard-caution-radio-wave-warning-sign-174690500.jpg
+data/obj_train_data/imgi_244_set-of-official-international-hazard-warning-signs-2C92DTM.jpg
+data/obj_train_data/imgi_127__s_i_si-5586-14.jpg
+data/obj_train_data/imgi_142_radio-frequency-sign-rf-17184_1000_3.gif
+data/obj_train_data/imgi_137_WS20459__90115.1699022919.jpg
+data/obj_train_data/imgi_63_warning-signs-series-three-different-260nw-215062.jpg
+data/obj_train_data/imgi_115__s_i_si-5589-14.jpg
+data/obj_train_data/imgi_136_radio-frequency-hazard-caution-sign-260nw-1704148294.jpg
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 01_51_23 PM.png
+data/obj_train_data/imgi_136_WS-YC Caution Sign Non-Ionising Radiation Consult Site  Folder 300mm x 200mm (1).jpg
+data/obj_train_data/imgi_20_default.png
+data/obj_train_data/imgi_132_radiation spectrum.png
+data/obj_train_data/imgi_71_Radio-Frequency-Radiation-With-Symbol-OSHA-WARNING-Vinyl-Decal-Label-5-Inch-x-3-5-Inch-10-Pack_64c24432-9988-4ead-9b1d-1f8d89d203c9.c50cdd172bf5.jpg
+data/obj_train_data/imgi_143_WS22435__22242.1699022810.jpg
+data/obj_train_data/imgi_168_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_149_WS-YC Caution Sign Non-Ionising Radiation Consult Site  Folder 300mm x 200mm.jpg
+data/obj_train_data/imgi_112_RWEE-10-2021-Lockwood-Figs123-725w.jpg
+data/obj_train_data/imgi_118_WV7823{1PA}-A8P-V-full.png
+data/obj_train_data/imgi_121_s-l1200.jpg
+data/obj_train_data/imgi_27_default.png
+data/obj_train_data/imgi_122_H6027-D53WH__98901.1552593001.jpg
+data/obj_train_data/imgi_160_60cb754fca6cdc725392f362_RF Radiation.jpg
+data/obj_train_data/imgi_118_rf-warning-signs-2.jpg
+data/obj_train_data/imgi_198__s_i_si-5590-14.jpg
+data/obj_train_data/imgi_104_H1544.png
+data/obj_train_data/imgi_169_618Gf+YIq6L.jpg
+data/obj_train_data/imgi_143_electrical-hazard-warning-sign-labels-260nw-2238057743.jpg
+data/obj_train_data/imgi_107_rwf-skall-category-3-201x300.jpg
+data/obj_train_data/imgi_87_H1542.png
+data/obj_train_data/imgi_141_51CRaBazumL.jpg
+data/obj_train_data/imgi_104_2996380751_c22789a1dc.jpg
+data/obj_train_data/imgi_134_a-sign-warning-about-radio-frequency-fields-B6P4B3.jpg
+data/obj_train_data/imgi_173_danger-caution-radioactive-area-radiation-material-signage-yellow-printable-sign-template-design_521317-1320.jpg
+data/obj_train_data/imgi_137_radio-frequency-sign-rf-16369_1000.gif
+data/obj_train_data/imgi_188_dont-touch-tower-rf-sign-s-9196.png
+data/obj_train_data/imgi_135_RF-safety-sign-1-300x300.jpg
+data/obj_train_data/imgi_180_61FvIzFqKbL.jpg
+data/obj_train_data/imgi_105_keep-out-sign-at-the-base-of-a-radio-transmitter-tower-2D6D9CF.jpg
+data/obj_train_data/imgi_154_rwf-skall-category-3.jpg
+data/obj_train_data/imgi_154_microwave-energy-warning-ansi-sign-s-2956.png
+data/obj_train_data/1 (37).png
+data/obj_train_data/imgi_153_radiation-signs-260nw-135000077.jpg
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 01_14_14 PM.png
+data/obj_train_data/imgi_84_radio-frequency-signs-h.jpg
+data/obj_train_data/imgi_162_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_33_default (1).png
+data/obj_train_data/sign17.png
+data/obj_train_data/imgi_140_WV7823{1SQ~3H4}-S85-1M-th.png
+data/obj_train_data/imgi_121_WS-BL Warning Sign Non-Ionising Radiation Fields Beyond This Point 300mm x 200mm.jpg
+data/obj_train_data/imgi_98_beach-warning-signs-on-na-pali-coast-kauai-island-hawaii-islands-usa-CF1TTC.jpg
+data/obj_train_data/imgi_150_2893.png
+data/obj_train_data/imgi_122_microwave-energy-warning-ansi-sign-s-2956.png
+data/obj_train_data/imgi_96_rwf-skall-category-4a-201x300.jpg
+data/obj_train_data/imgi_206_warning_radio_frequency_radiation_hazard_safety_sign-600x315w.jpg
+data/obj_train_data/imgi_149_WS_YC_3.jpg
+data/obj_train_data/imgi_131_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c8d14e3167260dd.jpg
+data/obj_train_data/imgi_65_images.png
+data/obj_train_data/imgi_140_shock-burn-hazard-ansi-sign-s-6078.png
+data/obj_train_data/imgi_171_x-ray-warning-signs.jpg
+data/obj_train_data/imgi_58_Warning-Sign-Rf-Microwave-Energy-Controlled-Area-Contact-Before-Entering-7-x10-Plastic-Safety-Sign-ansi-osha_0ed062b3-01c4-4148-8abd-aee784afea5.jpg
+data/obj_train_data/imgi_124_CPC-2-0-20-warningrf-eng.jpg
+data/obj_train_data/imgi_98_custom-ansi-signs.jpg
+data/obj_train_data/imgi_156_danger-nonionizing-radiation-symbol-vector-260nw-1831545598.jpg
+data/obj_train_data/imgi_139_Led-Sign-front_CAUTION-RF_MICROWAVE.jpg
+data/obj_train_data/imgi_26_default (2).png
+data/obj_train_data/imgi_128_rf-warning-labels.jpg
+data/obj_train_data/imgi_137_H1543BI.png
+data/obj_train_data/imgi_182_stock-vector-radio-frequency-hazard-caution-sign-radiation-warning-signs-and-symbols-1996486004.jpg
+data/obj_train_data/imgi_81_498-label__56998.1739388129.png
+data/obj_train_data/imgi_163_richmond205G20cell20health20warning20signs2005212019_1558480248723.jpg_88511963_ver1.0.jpg
+data/obj_train_data/imgi_81_use-rf-monitor-antennas-sign-s-9197.png
+data/obj_train_data/imgi_168_s-l400.jpg
+data/obj_train_data/imgi_151_radio-frequency-sign-rf-0012_150.gif
+data/obj_train_data/imgi_168_png-clipart-warning-sign-hazard-symbol-warning-label-symbol-miscellaneous-angle.png
+data/obj_train_data/imgi_175_radio-frequency-hazard-caution-sign-260nw-1704148294.jpg
+data/obj_train_data/imgi_6_default.png
+data/obj_train_data/imgi_154_radio-frequency-hazard-caution-sign-perfect-for-backgrounds-backdrop-sticker-label-sign-symbol-and-wallpaper-2BNYWMR.jpg
+data/obj_train_data/imgi_106_warning-sign-at-the-bottom-of-a-cellular-mobile-phone-transmitter-mast-M9GR30.jpg
+data/obj_train_data/imgi_4_default.png
+data/obj_train_data/imgi_104_triangular-panel-with-yellow-background-and-black-border-radio-waves-2YEHW1M.jpg
+data/obj_train_data/imgi_103_6404.5a.png
+data/obj_train_data/imgi_119_safety-signage-500x500.jpg
+data/obj_train_data/imgi_138_WS33412-14__27796.1551465760.jpg
+data/obj_train_data/imgi_131_3370-label__45443.1739387138.png
+data/obj_train_data/imgi_8_default (3).png
+data/obj_train_data/imgi_129_yellow_caution.png
+data/obj_train_data/imgi_179_caution-high-level-radio-frequency-energy-sign-frequence-warning-48568895.jpg
+data/obj_train_data/imgi_156_Warning-Sign-Rf-Microwave-Energy-Controlled-Area-Contact-Before-Entering-7-x10-Plastic-Safety-Sign-ansi-osha_0ed062b3-01c4-4148-8abd-aee784afea5a.580d07b94.jpg
+data/obj_train_data/imgi_110_E2260.png
+data/obj_train_data/imgi_84_0000763_vw-pc-ca-btp-128_415.png
+data/obj_train_data/2 (22).png
+data/obj_train_data/imgi_165_wireless-radiation-sign-C47K2X.jpg
+data/obj_train_data/imgi_110_non-ionizing-radiation-warning-sign-A31WJY.jpg
+data/obj_train_data/imgi_132_SIGNRFWARN1.jpg
+data/obj_train_data/imgi_115_0000792_vw-dc-mc-gl7-75-pack-of-5_415.png
+data/obj_train_data/imgi_171_51MPvKmBdXL._QL92_SH45_SS200_.jpg
+data/obj_train_data/imgi_94_warning_radio_frequency_radiation_hazard_safety_sign-550x385.jpg
+data/obj_train_data/imgi_174_WS33412-14__27796.1551465760.jpg
+data/obj_train_data/imgi_104_PROD_SPED_lrg_a0a92e34-3221-4b11-ac8f-d495d7afcc74.gif
+data/obj_train_data/imgi_87_ATT-Warning-1B.jpg
+data/obj_train_data/imgi_99_71jdKSEonJL.jpg
+data/obj_train_data/imgi_113_a-sign-on-a-fence-around-a-wifi-4g-5g-and-satellite-transmission-tower-warning-of-health-danger-2F6N98W.jpg
+data/obj_train_data/imgi_68_OSHA-Notice-Sign-Radio-Frequency-Controlled-Access-Area-Plastic-Sign-Protect-Your-Business-Work-Site-Warehouse-Shop-Area-Made-in-the-USA_53fdbeb.jpg
+data/obj_train_data/imgi_141_a-sign-warning-about-radio-frequency-fields-B6P4B3.jpg
+data/obj_train_data/imgi_128_rwf-skall-category-4a-201x300.jpg
+data/obj_train_data/imgi_133_radfreqwarning.jpg
+data/obj_train_data/imgi_173_rf-warning-labels-2.jpg
+data/obj_train_data/imgi_118_WS22435__22242.1699022810.jpg
+data/obj_train_data/imgi_36_images.png
+data/obj_train_data/imgi_161_bbcomps7972_bos.jpg
+data/obj_train_data/imgi_135_radio-frequency-fields-warning-sign-s-6088.png
+data/obj_train_data/imgi_236_s-l1200.jpg
+data/obj_train_data/imgi_124_H1527.png
+data/obj_train_data/imgi_98_H1547.png
+data/obj_train_data/imgi_87_H1543.png
+data/obj_train_data/imgi_166_yellow-white-and-black-caution-high-radio-frequency-fields-warning-sign-on-block-wall-2X6KKJA.jpg
+data/obj_train_data/imgi_10_default (3).jpg
+data/obj_train_data/imgi_84_blue.png
+data/obj_train_data/imgi_143_H1542BI.png
+data/obj_train_data/imgi_112_non-ionising-radiation-warning-sign-outside-a-bt-microwave-transmitter-station-RPB33T.jpg
+data/obj_train_data/imgi_163_Warning-1.jpg
+data/obj_train_data/imgi_95_SIGNRFWARN2.jpg
+data/obj_train_data/imgi_123_H1550.png
+data/obj_train_data/imgi_7_default (2).png
+data/obj_train_data/sign6.png
+data/obj_train_data/imgi_96_warning-radio-antenna-tower-conceptual-vector-with-text-2X5KX0K.jpg
+data/obj_train_data/imgi_160_WS331095__48483.1602090997.jpg
+data/obj_train_data/imgi_100_4609693214_d2e531e4d7_b.jpg
+data/obj_train_data/imgi_168_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c8d14e3167260dd.jpg
+data/obj_train_data/imgi_106_danger-rf-power-disconnect-before-260nw-2002077911.jpg
+data/obj_train_data/imgi_132_radiation-hazard-keep-out-icon-set-collection-for-web-vector.jpg
+data/obj_train_data/imgi_143_H6027-D53WH__98901.1552593001.jpg
+data/obj_train_data/imgi_99_WS331095__48483.1602090997.jpg
+data/obj_train_data/imgi_106_radio-frequency-fields-warning-sign-s-6088.png
+data/obj_train_data/imgi_163_y2429005.jpg
+data/obj_train_data/imgi_103_radio-frequency-warning.jpg
+data/obj_train_data/imgi_155_WV7803-A7L-V-th.png
+data/obj_train_data/imgi_120_WS-YD Caution Sign Do Not Stand Closer Than 1 Metre From This Antenna 300mm x 200mm.jpg
+data/obj_train_data/imgi_122_red.png
+data/obj_train_data/imgi_148_danger-banner-radio-frequency-field-yellow-triangle-keep-out-official-international-hazard-warning-signs-label-public-78480848.jpg
+data/obj_train_data/imgi_133_H1527BI.png
+data/obj_train_data/imgi_150_WS20459__90115.1699022919.jpg
+data/obj_train_data/imgi_118_15014788_a8b22e487c_b.jpg
+data/obj_train_data/imgi_157_H1552.png
+data/obj_train_data/imgi_124_caution-radio-transmitters-operating-warning-sign-at-a-mobile-cell-phone-tower-2S08EE1.jpg
+data/obj_train_data/imgi_5_default (1).png
+data/obj_train_data/imgi_108_H1523.png
+data/obj_train_data/imgi_23_default (6).png
+data/obj_train_data/imgi_5_default (5).png
+data/obj_train_data/imgi_30_default (3).png
+data/obj_train_data/imgi_159_s-l1200.jpg
+data/obj_train_data/imgi_170_WS21586__94387.1699023005.jpg
+data/obj_train_data/imgi_178_536-5367057_restricted-area-radio-frequency-hazard-sign-sign-clipart.png
+data/obj_train_data/imgi_100_E2260.png
+data/obj_train_data/imgi_143_221015-A-A1415-003.jpg
+data/obj_train_data/imgi_179_electrical-hazard-warning-sign-labels-260nw-2238057743.jpg
+data/obj_train_data/imgi_22_default (10).png
+data/obj_train_data/imgi_143_1792362330_0340_0340.jpg
+data/obj_train_data/imgi_167_warning-sign-at-the-bottom-of-a-cellular-mobile-phone-transmitter-mast-M9GR30.jpg
+data/obj_train_data/imgi_17_default (7).png
+data/obj_train_data/imgi_122_warning-rf-radiation-hazard-authorized-only-sign-white-background_112413-31481.jpg
+data/obj_train_data/imgi_133_2893.png
+data/obj_train_data/imgi_105_611620PbFBL.jpg
+data/obj_train_data/imgi_133_6027-371NV__94523.1553437114.jpg
+data/obj_train_data/imgi_136_yellow.png
+data/obj_train_data/imgi_130_s-l1200.jpg
+data/obj_train_data/imgi_90_71iGRLody6L._AC_SY200_QL15_.jpg
+data/obj_train_data/imgi_101_4609693214_d2e531e4d7_b.jpg
+data/obj_train_data/imgi_118_radfreqwarning.jpg
+data/obj_train_data/imgi_119_warning-radio-frequency-sign-s-2957.png
+data/obj_train_data/imgi_100_ansi-safety-signs-150.jpg
+data/obj_train_data/imgi_104_x-ray-radiation-caution-sign-s-4539.png
+data/obj_train_data/imgi_121_SIGNRFWARN2.jpg
+data/obj_train_data/imgi_133_radio-frequency-fields-warning-sign-C6FHX5.jpg
+data/obj_train_data/imgi_98_bbcomps7972_bos_03.jpg
+data/obj_train_data/imgi_99_CAU0527_a55fba20-e89b-46a3-87dc-443d3de1af56.png
+data/obj_train_data/imgi_137_hqdefault.jpg
+data/obj_train_data/imgi_129_richmond205G20cell20health20warning20signs2005212019_1558480248723.jpg_88511963_ver1.0.jpg
+data/obj_train_data/2 (29).png
+data/obj_train_data/imgi_212_radio-frequency-caution-sign-rectangle-warning-people-surrounding-area-exposed-to-high-level-energy-not-140165104.jpg
+data/obj_train_data/imgi_145_triangular-panel-with-yellow-background-and-black-border-radio-waves-2YEHW1M.jpg
+data/obj_train_data/imgi_99_WS34531-14__56027.1553204908.jpg
+data/obj_train_data/imgi_115_H1525.png
+data/obj_train_data/imgi_113_124183.jpg
+data/obj_train_data/imgi_139_Radio-Frequency-Radiation-With-Symbol-OSHA-WARNING-Vinyl-Decal-Label-5-Inch-x-3-5-Inch-10-Pack_64c24432-9988-4ead-9b1d-1f8d89d203c9.c50cdd172bf.jpg
+data/obj_train_data/imgi_156_rf-microwave-hazard-caution-sign-s-6091.png
+data/obj_train_data/imgi_189_C28355-06__89760.1556806606.jpg
+data/obj_train_data/imgi_130_danger-rf-radiation-hazard-authorized-only-sign-white-background_112413-14627.jpg
+data/obj_train_data/imgi_124_warnH049-excessiveradiofrequencyfieldsauthori__75931.1364788636.png
+data/obj_train_data/imgi_176_s-l1200.jpg
+data/obj_train_data/imgi_124_20843-2T.jpg
+data/obj_train_data/imgi_150_iso-7010-registered-safety-signs-260nw-2634036627.jpg
+data/obj_train_data/imgi_194_47734e18-100d-4372-b70a-80f9eb72d8d8.89504a4a067014a7c8858756a1a9ed26.jpg
+data/obj_train_data/imgi_108_c36d69b4-ef20-48c1-8e67-d82b7024b55b-jumbo16x9_LisaRadiofrequencyenergyexposuresign.jpg
+data/obj_train_data/imgi_103_8c3d28cf-5408-41c2-9753-27b62c93c9b7-5G_Tower_2.jpg
+data/obj_train_data/imgi_129_SIGN-A-SW-EE-H3G.jpg
+data/obj_train_data/imgi_156_safety-signs.jpg
+data/obj_train_data/imgi_126_rwf-skall-category-3-201x300.jpg
+data/obj_train_data/imgi_161_warning-sign-radio-frequency-hazard-260nw-2477528803.jpg
+data/obj_train_data/imgi_178_bbcomps7121_bos_03.jpg
+data/obj_train_data/imgi_88_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_13_default (6).png
+data/obj_train_data/imgi_144_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_100_image-asset.jpg
+data/obj_train_data/imgi_156_warning-sign-on-white-background-2RFBXPE.jpg
+data/obj_train_data/imgi_179_cpwNsHL.jpg
+data/obj_train_data/imgi_165_3757d8e6-331e-4215-a421-aba634b30139.a5f342f193a772c50e51ec0c00dd7f49.jpg
+data/obj_train_data/imgi_95_H1525.png
+data/obj_train_data/imgi_164_stock-vector-radio-frequency-hazard-caution-sign-radiation-warning-signs-and-symbols-1996486004.jpg
+data/obj_train_data/imgi_139_Less-EMF-Caution-RF-Radiation-Hazard-Sign-front-360x360.jpg
+data/obj_train_data/imgi_124_RWEE-10-2021-Lockwood-Figs123-725w.jpg
+data/obj_train_data/imgi_113_related-rf-warning-signs.jpg
+data/obj_train_data/imgi_182__s_i_si-4403-14.jpg
+data/obj_train_data/imgi_148_129344.jpg
+data/obj_train_data/imgi_162_radio-frequency-danger-sign-radiation-sign-radiofrequency-radiation-harmful-to-health-sign-is-used-in-places-with-working-tr.jpg
+data/obj_train_data/imgi_14_default (7).png
+data/obj_train_data/imgi_114_richmond205G20cell20health20warning20signs2005212019_1558480248723.jpg_88511963_ver1.0.jpg
+data/obj_train_data/imgi_119_Screenshot-61.png
+data/obj_train_data/imgi_129_blue.png
+data/obj_train_data/imgi_117_warning-high-level-of-rf-radiation-sign-on-white-background-2JR5GPG.jpg
+data/obj_train_data/imgi_116_Sign+2.jpg
+data/obj_train_data/imgi_55_images.png
+data/obj_train_data/imgi_24_default (8).png
+data/obj_train_data/imgi_147_radio-frequency-hazard-caution-sign-s-2771.png
+data/obj_train_data/imgi_113_61lXJJG0TgL._AC_SY200_QL15_.jpg
+data/obj_train_data/imgi_155_dont-touch-tower-rf-sign-s-9196.png
+data/obj_train_data/12.png
+data/obj_train_data/imgi_161_WS22210-14__38082.1551453789.450.450.jpg
+data/obj_train_data/imgi_186_stock-vector-caution-on-this-tower-rf-fields-sign-1698075481.jpg
+data/obj_train_data/imgi_108_radiofrequency-radiation-present-sign-s-7370.png
+data/obj_train_data/imgi_149_Sign+2.jpg
+data/obj_train_data/imgi_127_OSHA-Notice-Sign-Radio-Frequency-Controlled-Access-Area-Plastic-Sign-Protect-Your-Business-Work-Site-Warehouse-Shop-Area-Made-in-the-USA_53fdbe.jpg
+data/obj_train_data/imgi_159_yellow-warning-sign-wireless-signal-260nw-2643341999.jpg
+data/obj_train_data/imgi_95_814JaiikLVL.jpg
+data/obj_train_data/imgi_114_61ra7CIskKL.jpg
+data/obj_train_data/imgi_68_custom-ansi-warning-sign-s-3601.gif
+data/obj_train_data/imgi_21_default.png
+data/obj_train_data/imgi_124_radio-frequency-sign-rf-17185_1000_3.gif
+data/obj_train_data/imgi_153_radiation-warning-signs-yellow-black-260nw-2530578983.jpg
+data/obj_train_data/imgi_120_Caution-1.jpg
+data/obj_train_data/1 (14).png
+data/obj_train_data/imgi_113_WV7823{1LA}-A5L-HV-th.png
+data/obj_train_data/imgi_86_rf-warning-labels.jpg
+data/obj_train_data/imgi_168_non-ionizing-radiation-board-symbol-260nw-2502212921.jpg
+data/obj_train_data/imgi_104_ansi-z535-safety-sign-marking-260nw-2345088341.jpg
+data/obj_train_data/imgi_137_WS20462__37967.1699022934.jpg
+data/obj_train_data/imgi_167_related-rf-warning-signs.jpg
+data/obj_train_data/imgi_120_non-ionizing-radiation-hazard-safety-area-danger-warning-sign-sticker-H8G0YB.jpg
+data/obj_train_data/imgi_141_radio-frequency-hazard-caution-sign-s-2771.png
+data/obj_train_data/imgi_159_WS-RL Warning Sign Beyond This Point RF Field Exists 300mm x 200mm.jpg
+data/obj_train_data/imgi_151_warning_radio_frequency_radiation_hazard_safety_sign-520x823w.jpg
+data/obj_train_data/imgi_151_LS22093-46__01482.1607549627.jpg
+data/obj_train_data/imgi_176_1d4ad918-cd4d-5c43-a350-d9d9f9de5a35__17622.1691790913.jpg
+data/obj_train_data/imgi_200_warning-nonionizing-radiation-xray-radiotherapy-260nw-2439773573.jpg
+data/obj_train_data/imgi_122_WS21584__68782.1699022995.jpg
+data/obj_train_data/imgi_171_radfreqwarning.jpg
+data/obj_train_data/imgi_127_rf1.jpg
+data/obj_train_data/imgi_142_H1567.png
+data/obj_train_data/imgi_177_H1542.png
+data/obj_train_data/imgi_157_radio-frequency-sign-rf-16364_1000.gif
+data/obj_train_data/imgi_174_H1525BI.png
+data/obj_train_data/imgi_106_mqdefault.jpg
+data/obj_train_data/imgi_160_ansi-z535-safety-sign-marking-260nw-2403729993.jpg
+data/obj_train_data/imgi_131_Caution-TMO.jpg
+data/obj_train_data/imgi_110_radio-frequency-fields-warning-sign-s-6088.png
+data/obj_train_data/imgi_155_warning-sign-at-the-bottom-of-a-cellular-mobile-phone-transmitter-mast-M9GR30.jpg
+data/obj_train_data/imgi_114_rwf-skall-category-3-201x300.jpg
+data/obj_train_data/imgi_147_RF-exposure-limits-for-the-general-public-in-different-countries-Equivalent-plane-wave.png
+data/obj_train_data/imgi_150_man-touchscreen-radioactive-label-icon-260nw-2195759067.jpg
+data/obj_train_data/imgi_23_default.png
+data/obj_train_data/imgi_17_default (3).png
+data/obj_train_data/imgi_21_default (9).png
+data/obj_train_data/imgi_105_images.jpg
+data/obj_train_data/imgi_124_warning-rf-hazard-sign-on-white-background-2JPWJ97.jpg
+data/obj_train_data/imgi_167_0000923_caution-yellow-rf-8x12_415.png
+data/obj_train_data/imgi_91_il_fullxfull.4696506501_gynd.jpg
+data/obj_train_data/imgi_101_warning-signs-series-three-different-260nw-215062.jpg
+data/obj_train_data/imgi_18_default (6).png
+data/obj_train_data/imgi_173_attention-sign-caution-access-door-may-be-hot-vector-50089029.jpg
+data/obj_train_data/imgi_89_7V7B4UQXR4I63OMYWKVWR5MENA.jpg
+data/obj_train_data/imgi_94_35325.jpg
+data/obj_train_data/imgi_165_TMO-Warning-800x800.jpg
+data/obj_train_data/imgi_130_cr.webp
+data/obj_train_data/imgi_184_warning-rf-hazard-sign-on-white-background-2JPWJ97.jpg
+data/obj_train_data/imgi_29_default (1).png
+data/obj_train_data/imgi_158_H1545.png
+data/obj_train_data/imgi_29_default (4).png
+data/obj_train_data/imgi_93_ATT-Notice-2-1-800x800.jpg
+data/obj_train_data/imgi_145_caution-rf-hazard-sign-on-white-background-free-vector.jpg
+data/obj_train_data/imgi_135_CPC-2-0-20-warningrf-eng.jpg
+data/obj_train_data/imgi_219_s-l400.jpg
+data/obj_train_data/imgi_107_stock-photo-workplace-safety-sign-board-at-construction-site-danger-overhead-power-lines-another-sign-board-1063821986.jpg
+data/obj_train_data/imgi_164_si-74400-14.jpg
+data/obj_train_data/imgi_7_default (1).png
+data/obj_train_data/imgi_172_warnH049-excessiveradiofrequencyfieldsauthori__75931.1364788636.png
+data/obj_train_data/imgi_161_l9FgTMW.jpg
+data/obj_train_data/imgi_16_default (2).png
+data/obj_train_data/imgi_96_warning_signs_blog.jpg
+data/obj_train_data/imgi_160_H1544.png
+data/obj_train_data/imgi_100__s_i_si-4943-14.jpg
+data/obj_train_data/imgi_33_default (3).png
+data/obj_train_data/1 (3).png
+data/obj_train_data/imgi_63_images.png
+data/obj_train_data/imgi_119_CPC-2-0-20-warningrf-eng.jpg
+data/obj_train_data/imgi_97_J6047.png
+data/obj_train_data/imgi_156_WS-YC Caution Sign Non-Ionising Radiation Consult Site  Folder 300mm x 200mm.jpg
+data/obj_train_data/imgi_158_triangular-signs-of-a-hazard-warnings-biohazard-ionizing-radiation-coronavirus-poison-and-generic-danger-2BAYPM5.jpg
+data/obj_train_data/imgi_111_radio-frequency-warning-sign-s-2967.png
+data/obj_train_data/imgi_125_7582DR-600.jpg
+data/obj_train_data/imgi_102_sign-warning-of-radio-frequency-health-hazard-EJNNA7.jpg
+data/obj_train_data/imgi_149_WS22448__92281.1699022877.jpg
+data/obj_train_data/1 (39).png
+data/obj_train_data/imgi_139_H1552.png
+data/obj_train_data/imgi_190_radio-frequency-fields-caution-sign-s-6079_pl.png
+data/obj_train_data/imgi_188_radiation-warning-labels.jpg
+data/obj_train_data/imgi_139_si-74400-14.jpg
+data/obj_train_data/imgi_122_iphone-15-pro-highest-apple-radiation-body-sar-levels.jpg
+data/obj_train_data/imgi_110_H1549.png
+data/obj_train_data/imgi_86_warning-signs-union-city-california-K6KP05.jpg
+data/obj_train_data/imgi_191_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c.jpg
+data/obj_train_data/imgi_135_warning-rf-hazard-sign-on-white-background-2JR5GWE.jpg
+data/obj_train_data/imgi_4_default (4).png
+data/obj_train_data/imgi_181_s-l400.jpg
+data/obj_train_data/imgi_115_614mwMSB0zL._AC_SY200_QL15_.jpg
+data/obj_train_data/imgi_103_do-not-close-bomb-doors-while-trolleys-are-out-sign-2ATNC9W.jpg
+data/obj_train_data/imgi_115_5f4af73d9f62ad58008cbc9c473ab887.jpg
+data/obj_train_data/imgi_184_2-Pack-Possible-RF-Radiation-With-Symbol-OSHA-Caution-Radiation-Sign_988e616f-b7ee-4d8f-bd37-240181b2d5b6.47e98b5a0ca4e47234.jpg
+data/obj_train_data/imgi_140_png-clipart-hazard-construction-site-safety-architectural-engineering-warning-sign-pull-flag-material-building-text.png
+data/obj_train_data/imgi_21_default (3).png
+data/obj_train_data/imgi_120_H1550.png
+data/obj_train_data/1 (19).png
+data/obj_train_data/imgi_129_ATT-Warning-1B.jpg
+data/obj_train_data/imgi_192_614mwMSB0zL._AC_SY200_QL15_.jpg
+data/obj_train_data/imgi_12_default (2).png
+data/obj_train_data/sign14.png
+data/obj_train_data/imgi_86_images.jpg
+data/obj_train_data/imgi_157__s_i_si-3614-14.jpg
+data/obj_train_data/imgi_164_E2259BI.png
+data/obj_train_data/imgi_56_images.png
+data/obj_train_data/imgi_17_default.png
+data/obj_train_data/imgi_177_WS20464__21365.1699022944.jpg
+data/obj_train_data/imgi_118_a-cell-phone-tower-in-a-parking-lot-of-a-group-of-retail-stores-with-JH0AFY.jpg
+data/obj_train_data/imgi_185_ATT-Notice-2-1-800x800.jpg
+data/obj_train_data/imgi_185_danger-banner-radio-frequency-field-yellow-triangle-keep-out-official-international-hazard-warning-signs-label-public-74914787.jpg
+data/obj_train_data/imgi_146_health-hazard-signage.jpg
+data/obj_train_data/imgi_127_beyond-this-point-radio-frequency-rf-awareness-safety-poster-1-500x625-1.webp
+data/obj_train_data/imgi_139_radio-frequency-sign-rf-16363_1000.gif
+data/obj_train_data/imgi_156_H1521.png
+data/obj_train_data/imgi_169_non-ionizing-radiation-board-symbol-hazard-indicating-caution-exposure-alert-warning-radio-frequency-hazards-attention-danger-zone-330741575.jpg
+data/obj_train_data/imgi_90_close-up-of-a-posted-danger-no-trespassing-sign-2JBGFR6.jpg
+data/obj_train_data/imgi_100_H1527.png
+data/obj_train_data/imgi_126_rf-warning-signs-2.jpg
+data/obj_train_data/sign8.png
+data/obj_train_data/imgi_86_rf-microwave-hazard-caution-sign-s-6091.png
+data/obj_train_data/imgi_156_high-power-rf-radiation-warning-sign-metromedia-center-mt-wilson-california-AFWTY0.jpg
+data/obj_train_data/imgi_73__s_i_si-65195-12.jpg
+data/obj_train_data/imgi_133_51MPvKmBdXL._QL92_SH45_SS200_.jpg
+data/obj_train_data/imgi_113_radiofrequency-radiation-present-sign-s-7370.png
+data/obj_train_data/imgi_145_danger-nonionizing-radiation-symbol-vector-260nw-1831545598.jpg
+data/obj_train_data/imgi_97_bilingual-radio-frequency-notice-sign-s-6084.png
+data/obj_train_data/imgi_132_custom-ghs-chemical-danger-target-organs-sign-s-3690.png
+data/obj_train_data/imgi_151_y2442596.jpg
+data/obj_train_data/imgi_97_restricted-radio-frequency-hazard-sign-s-9194.png
+data/obj_train_data/imgi_124_rfsafe-logo-usa.png
+data/obj_train_data/imgi_164_OSHA-Notice-Sign-Radio-Frequency-Controlled-Access-Area-Plastic-Sign-Protect-Your-Business-Work-Site-Warehouse-Shop-Area-Made-in-the-USA_53fdbe.jpg
+data/obj_train_data/imgi_36_default.png
+data/obj_train_data/imgi_99_Caution-1.jpg
+data/obj_train_data/imgi_89_warning-radio-frequency-sign-s-7195.png
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 12_44_31 PM.png
+data/obj_train_data/imgi_121_y2429036.jpg
+data/obj_train_data/imgi_140_rf-warning-labels.jpg
+data/obj_train_data/2 (10).png
+data/obj_train_data/imgi_177_8018K-ISO.png
+data/obj_train_data/imgi_115_yellow-warning-sign-for-x-ray-room-FNR5WP.jpg
+data/obj_train_data/imgi_158_warning-radio-antenna-tower-conceptual-vector-with-text-2X5KX0K.jpg
+data/obj_train_data/imgi_125_triangle-warning-or-danger-road-sign-with-red-frame-vector-illustration-2DCBMJJ.jpg
+data/obj_train_data/imgi_116_warning-rf-hazard-sign-on-white-background-2JPWJ97.jpg
+data/obj_train_data/imgi_16_default (7).png
+data/obj_train_data/imgi_93_caution-sign-on-a-radio-transmitter-mast-CE51XH.jpg
+data/obj_train_data/imgi_126_Terrace-a.jpg
+data/obj_train_data/imgi_111_caution-radio-transmitters-operating-warning-sign-mobile-cell-phone-tower-kirkcudbright-scotland-th-december-arqiva-met.jpg
+data/obj_train_data/1 (26).png
+data/obj_train_data/imgi_119_rwf-skall-category-3-201x300.jpg
+data/obj_train_data/imgi_31_default (1).jpg
+data/obj_train_data/imgi_132_optical-radiation-emission-symbol-sign-2767765.jpg
+data/obj_train_data/imgi_154_H1526.png
+data/obj_train_data/imgi_91_warning-high-level-of-rf-radiation-sign-on-white-background-2JR5GPG.jpg
+data/obj_train_data/imgi_144_WS22344-ALT-01__27115.1626807757.jpg
+data/obj_train_data/imgi_176_129314.jpg
+data/obj_train_data/imgi_176_non-ionizing-radiation-hazard-safety-area-danger-warning-text-sign-H8G0YC.jpg
+data/obj_train_data/imgi_122_radfreqwarning.jpg
+data/obj_train_data/imgi_13_default (4).png
+data/obj_train_data/imgi_78_15014788_a8b22e487c_z.jpg
+data/obj_train_data/imgi_104_radio-frequency-fields-warning-sign-s-6088_pl.png
+data/obj_train_data/imgi_67_71C-GyHjcJL.jpg
+data/obj_train_data/imgi_214_Essex_CA%2C_GWEN_rf_rad_warning_sign.jpg
+data/obj_train_data/imgi_33_default (11).png
+data/obj_train_data/imgi_182_warning-radiation-area-authorized-only-sign-on-white-background-free-vector.jpg
+data/obj_train_data/imgi_133_images.jpg
+data/obj_train_data/imgi_135_caution-radio-transmitters-operating-warning-sign-at-a-mobile-cell-phone-tower-2s08ee1.jpg
+data/obj_train_data/imgi_112_restricted-radio-frequency-hazard-sign-s-9194.png
+data/obj_train_data/imgi_116_E2260.png
+data/obj_train_data/imgi_174_bilingual-radio-frequency-notice-sign-s-6084.png
+data/obj_train_data/imgi_106_radio-frequency-warning-sign-11085905.jpg
+data/obj_train_data/imgi_170_12-x-18-in-OSHA-Notice-Sign-Possible-RF-Radiation-Hazard-with-Symbol_678e63a6-11d0-445a-887f-feaf300ad763.206f82ac4848c3fc4c.jpg
+data/obj_train_data/imgi_141_0000923_caution-yellow-rf-8x12_415.png
+data/obj_train_data/imgi_87_warning-sign-fixed-to-a-security-fence-around-a-mobile-telephone-mast-BDBB8H.jpg
+data/obj_train_data/imgi_137_warning-high-level-of-rf-radiation-sign-on-white-background-2S701PK.jpg
+data/obj_train_data/imgi_114_129314.jpg
+data/obj_train_data/imgi_56_custom-ansi-notice-sign-s-3599.gif
+data/obj_train_data/imgi_166_Untitled.jpg
+data/obj_train_data/imgi_184_s-l400.jpg
+data/obj_train_data/imgi_122_rf1.jpg
+data/obj_train_data/imgi_17_default (5).png
+data/obj_train_data/imgi_11_default.png
+data/obj_train_data/imgi_14_default.png
+data/obj_train_data/imgi_99_H1542.png
+data/obj_train_data/imgi_167_E2259BI.png
+data/obj_train_data/imgi_81_radio-frequency-warning.jpg
+data/obj_train_data/imgi_16_default (1).png
+data/obj_train_data/imgi_88_E2260.png
+data/obj_train_data/imgi_148_hazardous-substances-identification-storage-area-marking-label-warning-symbol-explosive-2X3GRY7.jpg
+data/obj_train_data/imgi_101_warning-restricted-area-sign-s-2963.png
+data/obj_train_data/imgi_18_default (2).png
+data/obj_train_data/imgi_21_default (8).png
+data/obj_train_data/imgi_135_640px-Radiation_warning_sign_(2267129957)_(2).jpg
+data/obj_train_data/imgi_22_default (2).png
+data/obj_train_data/imgi_148_WS20465__37310.1699022949.jpg
+data/obj_train_data/imgi_80_use-rf-monitor-antennas-sign-s-9197.png
+data/obj_train_data/imgi_29_default (8).png
+data/obj_train_data/imgi_112_rf-microwave-hazard-caution-sign-s-6091.png
+data/obj_train_data/imgi_159_OSHA-Danger-Sign-Contaminated-Area-Plastic-Sign-Protect-Your-Business-Construction-Site-Warehouse-Shop-Area-Made-in-The-USA_bf6fe324-2da9-4cfa-a5ad-3dac0d4.jpg
+data/obj_train_data/imgi_120_H1547.png
+data/obj_train_data/imgi_116_x-ray-warning-signs.jpg
+data/obj_train_data/imgi_110_radio-frequency-hazard-caution-sign-s-2771.png
+data/obj_train_data/imgi_108_WS22344__29464.1597959001.450.450.jpg
+data/obj_train_data/imgi_155_radio-frequency-sign-rf-17185_150.gif
+data/obj_train_data/imgi_276_s-l1200.jpg
+data/obj_train_data/imgi_34_default (3).png
+data/obj_train_data/imgi_104_cautH138-highlevelradiofrequencyfieldsauthor__23665.1364785979.png
+data/obj_train_data/imgi_174_osha-safety-sign-marking-label-260nw-2403730217.jpg
+data/obj_train_data/imgi_32_default.png
+data/obj_train_data/imgi_180_WV7803-A8P-V-full.png
+data/obj_train_data/imgi_108_hq720.jpg
+data/obj_train_data/imgi_126_WS33284-14__53237.1549394546.1280.1280.jpg
+data/obj_train_data/imgi_125_y2429005.jpg
+data/obj_train_data/imgi_136_osha-safety-sign-marking-label-260nw-2403730213.jpg
+data/obj_train_data/imgi_157_radio-frequency-fields-caution-sign-s-6079.png
+data/obj_train_data/imgi_109_restricted-radio-frequency-hazard-sign-s-9194.png
+data/obj_train_data/imgi_129_H1549.png
+data/obj_train_data/imgi_137_stock-vector-radio-frequency-hazard-caution-sign-radiation-warning-signs-and-symbols-1996486004.jpg
+data/obj_train_data/imgi_216_rf-warning-labels-2.jpg
+data/obj_train_data/1 (36).png
+data/obj_train_data/imgi_99_305677484_987b4cd54e_b.jpg
+data/obj_train_data/imgi_177_ANSI-Labels-300x300.jpg
+data/obj_train_data/imgi_114_rf-warning-labels.jpg
+data/obj_train_data/imgi_128_high-power-rf-radiation-warning-sign-metromedia-center-mt-wilson-california-AFWTXF.jpg
+data/obj_train_data/imgi_176_H1542BI.png
+data/obj_train_data/imgi_175_danger-banner-radio-frequency-field-260nw-457515652.jpg
+data/obj_train_data/imgi_65_71YLut12xzL.jpg
+data/obj_train_data/imgi_121_H1551.png
+data/obj_train_data/imgi_121_3370-label__45443.1739387138.png
+data/obj_train_data/imgi_16_default (8).png
+data/obj_train_data/imgi_103__s_i_si-5588-14.jpg
+data/obj_train_data/imgi_95_Possible-RF-Radiation-Hazard-OSHA-Notice-Rigid-Plastic-Sign-18-Inch-x-12-Inch-5-Pack_e3ef9dfc-bd4e-42e6-a56d-a0e2eb6dea3c.7d8d841195d095f53e6a88.jpg
+data/obj_train_data/imgi_150_high-power-rf-radiation-warning-sign-metromedia-center-mt-wilson-california-AFWTY0.jpg
+data/obj_train_data/imgi_138_danger-banner-radio-frequency-field-260nw-457515652.jpg
+data/obj_train_data/imgi_132_s-l1200.jpg
+data/obj_train_data/imgi_111_6027-371NV__94523.1553437114.jpg
+data/obj_train_data/imgi_147_ATT-Caution-2B-800x800.jpg
+data/obj_train_data/imgi_144_hazard-signs-set-2-KPMAYP.jpg
+data/obj_train_data/imgi_102_radio-frequency-warning-sign-notice-environment-chain-link-fence-109037290.jpg
+data/obj_train_data/imgi_121_radfreqwarning.jpg
+data/obj_train_data/imgi_102_images.jpg
+data/obj_train_data/imgi_128_619zI+NI1eL.jpg
+data/obj_train_data/imgi_87_124183.jpg
+data/obj_train_data/imgi_135_ATT-Notice-2-1-800x800.jpg
+data/obj_train_data/imgi_156_SIGNRFWARN2.jpg
+data/obj_train_data/imgi_8_images.png
+data/obj_train_data/imgi_139_images.png
+data/obj_train_data/imgi_159_l2189fq8ewrc1.jpg
+data/obj_train_data/imgi_183_safety-first-rf-power-disconnect-260nw-1962175132.jpg
+data/obj_train_data/imgi_109_pexels-photo-18600098.jpg
+data/obj_train_data/imgi_3_default (3).jpg
+data/obj_train_data/imgi_131_bb437723-e662-4188-b991-2f80ac095d36_1140x641.jpg
+data/obj_train_data/imgi_138_warning_radio_frequency_radiation_hazard_safety_sign-520x823w.jpg
+data/obj_train_data/imgi_58_images.jpg
+data/obj_train_data/imgi_123_WS33412-14__27796.1551465760.jpg
+data/obj_train_data/imgi_142_71TYyAssb-L.jpg
+data/obj_train_data/imgi_149_custom-ansi-notice-sign-s-3599.gif
+data/obj_train_data/imgi_140_images.jpg
+data/obj_train_data/imgi_163_8d40d50707ef78bb2e869b7b518b691812210c2c.jpg
+data/obj_train_data/imgi_133_triangular-panel-with-yellow-background-and-black-border-radio-waves-2YEHW1M.jpg
+data/obj_train_data/sign5.png
+data/obj_train_data/imgi_128_Cell_site_tower_warning_sign_and_work_guidelines.jpg
+data/obj_train_data/2 (45).png
+data/obj_train_data/imgi_157_thumbnail18.jpg
+data/obj_train_data/imgi_173__s_i_si-65195-12.jpg
+data/obj_train_data/imgi_137_H1544.png
+data/obj_train_data/imgi_126_orange.png
+data/obj_train_data/imgi_193_940x540_article_patrick_van_der_burght_interview-500x383@2x.jpg
+data/obj_train_data/imgi_150_radio-frequency-hazard-caution-sign-s-2771.png
+data/obj_train_data/2 (32).png
+data/obj_train_data/imgi_53_images.png
+data/obj_train_data/imgi_176_caution-radio-transmitters-operating-warning-sign-on-a-metal-gate-at-a-uk-mobile-cell-phone-tower-2ehaptk.jpg
+data/obj_train_data/imgi_144_s-l1200.jpg
+data/obj_train_data/imgi_142_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_25_default (6).png
+data/obj_train_data/imgi_181_notice-rf-radiation-hazard-authorized-sign-white-background-254316353.jpg
+data/obj_train_data/imgi_161_notice-high-level-of-rf-radiation-sign-on-white-background-2JPWJCC.jpg
+data/obj_train_data/imgi_153_CPC-2-0-20-warningrf-eng.jpg
+data/obj_train_data/imgi_155_matsandsupplies-252129-electrical-safety-workplace-blogbanner1.jpg
+data/obj_train_data/imgi_139_radio-frequency-hazard-sign-s-2791.png
+data/obj_train_data/imgi_86_71GYJxyRTXL._AC_SY200_QL15_.jpg
+data/obj_train_data/imgi_179_1200px-RF_warning_DSCN1970_(6943351084).jpg
+data/obj_train_data/imgi_159_s-l400.jpg
+data/obj_train_data/imgi_173_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_127_WS-YD Caution Sign Do Not Stand Closer Than 1 Metre From This Antenna 300mm x 200mm.jpg
+data/obj_train_data/imgi_141_497-label__89545.1739388129.png
+data/obj_train_data/imgi_93_6404.5a.png
+data/obj_train_data/imgi_122_beyond-this-point-radio-frequency-rf-awareness-safety-poster-1-500x625-1.webp
+data/obj_train_data/imgi_170_radio-frequency-sign-rf-16366_1000.gif
+data/obj_train_data/imgi_167_H1549.png
+data/obj_train_data/1 (17).png
+data/obj_train_data/imgi_133_Screen-Shot-2024-04-07-at-12.41.57-PM.png
+data/obj_train_data/imgi_141_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_116_640px-2018_Hawaii_missile_alert_(cropped).jpg
+data/obj_train_data/imgi_155_il_300x300.2099737801_jsy5.jpg
+data/obj_train_data/imgi_169_H1549.png
+data/obj_train_data/imgi_144_rwf-skall-category-3-201x300.jpg
+data/obj_train_data/imgi_95_129314.jpg
+data/obj_train_data/imgi_88_s-l1200.jpg
+data/obj_train_data/imgi_152_WS331096__86852.1602091000.jpg
+data/obj_train_data/imgi_141_maxresdefault.jpg
+data/obj_train_data/imgi_155_OS-2PACK-WS-D-L-12788.jpg
+data/obj_train_data/imgi_116_71q9sp1Do3L.jpg
+data/obj_train_data/imgi_176_safety-sign-marking-label-symbol-warning-radio-frequency-radiation-hazard-area-enter_655051-2143.jpg
+data/obj_train_data/imgi_107_bilingual-radio-frequency-notice-sign-s-6084.png
+data/obj_train_data/imgi_183_radio-frequency-signs-h.jpg
+data/obj_train_data/imgi_97_rwf-skall-category-3-201x300.jpg
+data/obj_train_data/imgi_123_WS20463__76444.1699022939.jpg
+data/obj_train_data/imgi_122_y2442596.jpg
+data/obj_train_data/imgi_12_default.png
+data/obj_train_data/imgi_124_radio-frequency-hazard-sign-labels-260nw-2249118379.jpg
+data/obj_train_data/imgi_161_radio-frequency-hazard-caution-sign-perfect-for-backgrounds-backdrop-sticker-label-sign-symbol-and-wallpaper-2bnywmr.jpg
+data/obj_train_data/imgi_167_RF Exposure logo.jpg
+data/obj_train_data/imgi_158_H1567.png
+data/obj_train_data/imgi_145_rf-signsa.jpg
+data/obj_train_data/imgi_114_hazard-warning-signs-around-radio-transmitter-br7887.jpg
+data/obj_train_data/imgi_97_Danger-Pesticide-sign.jpg
+data/obj_train_data/imgi_137_images.jpg
+data/obj_train_data/imgi_141_non-ionizing-radiation-hazard-safety-area-danger-warning-sign-sticker-H8G0YB.jpg
+data/obj_train_data/imgi_126_warning-rf-radiation-hazard-authorized-only-sign-white-background_112413-16230.jpg
+data/obj_train_data/imgi_277_s-l1200.jpg
+data/obj_train_data/imgi_151_set-signs-warning-danger-high-260nw-2558943609.jpg
+data/obj_train_data/imgi_98_OS-NS-17711.jpg
+data/obj_train_data/imgi_102_27e1b40f-7bd0-4c79-9009-dc00f4b35376_1920x1080.jpg
+data/obj_train_data/imgi_150_WS_YC_3.jpg
+data/obj_train_data/imgi_95_rf-environments-work-guidelines-sign-s-6089.png
+data/obj_train_data/imgi_128_Radio-Frequency-Radiation-With-Symbol-OSHA-WARNING-Vinyl-Decal-Label-5-Inch-x-3-5-Inch-10-Pack_64c24432-9988-4ead-9b1d-1f8d89d203c9.c50cdd172bf.jpg
+data/obj_train_data/imgi_130_radfreqwarning.jpg
+data/obj_train_data/imgi_110_radio-frequency-hazard-sign-labels-260nw-2249118407.jpg
+data/obj_train_data/imgi_95_radio-frequency-fields-warning-sign-C6FHX5.jpg
+data/obj_train_data/imgi_4_default (7).png
+data/obj_train_data/imgi_122_ghows-OH-bef7ff95-e59a-48b5-95d3-549d9deb14d7-0543a0ee.jpg
+data/obj_train_data/imgi_134_6943351084_74bab52a13_o.jpg
+data/obj_train_data/imgi_110_H1521.png
+data/obj_train_data/imgi_67_images.jpg
+data/obj_train_data/imgi_147_H1527BI.png
+data/obj_train_data/imgi_128_OS-2PACK-WS-A-1218-L-12788-2.jpg
+data/obj_train_data/imgi_126_RWEE-10-2021-Lockwood-725-353x199.jpg
+data/obj_train_data/imgi_135_Sign+2.jpg
+data/obj_train_data/imgi_152_warning-sign-on-white-background-2RFBXYK.jpg
+data/obj_train_data/imgi_103_radio-frequency-fields-warning-sign-C6FHX5.jpg
+data/obj_train_data/imgi_108_rf-warning-labels-2.jpg
+data/obj_train_data/imgi_192_6403.png
+data/obj_train_data/imgi_136_Sign+2.jpg
+data/obj_train_data/sign13.png
+data/obj_train_data/imgi_154_mqdefault.jpg
+data/obj_train_data/imgi_173_rf-environments-work-guidelines-sign-s-6089.png
+data/obj_train_data/imgi_133_WS33412-14__27796.1551465760.jpg
+data/obj_train_data/imgi_17_default (11).png
+data/obj_train_data/imgi_157_caution-rf-radiation-hazard-authorized-260nw-2019687941.jpg
+data/obj_train_data/imgi_98_RF Safety Signs Thumbnail 2.png
+data/obj_train_data/imgi_134_cs128.jpg
+data/obj_train_data/2 (33).png
+data/obj_train_data/imgi_108_H1567.png
+data/obj_train_data/imgi_92_radio-frequency-warning.jpg
+data/obj_train_data/imgi_125__s_i_si-5248-14.jpg
+data/obj_train_data/2 (40).png
+data/obj_train_data/imgi_16_default.png
+data/obj_train_data/imgi_123_yellow_caution.png
+data/obj_train_data/imgi_152_Radio-Frequency-High-Level-Warning-Sign.jpg
+data/obj_train_data/imgi_92_H1544.png
+data/obj_train_data/imgi_117_WS22344-ALT-01__27115.1626807757.jpg
+data/obj_train_data/imgi_111_radiation-warning-labels.jpg
+data/obj_train_data/imgi_18_default (1).png
+data/obj_train_data/imgi_129_LS33412-46__58542.1571333380.jpg
+data/obj_train_data/imgi_133_warning-sign-signs-sticker-notice-notices-decal-regarding-the-dangers-C3M96C.jpg
+data/obj_train_data/imgi_125_102_RF-Safety-Awareness_header.jpg
+data/obj_train_data/imgi_49_images.jpg
+data/obj_train_data/imgi_113_il_fullxfull.4696506501_gynd.jpg
+data/obj_train_data/imgi_126_RF Exposure logo.jpg
+data/obj_train_data/imgi_105_dangH120-gravedangerveryhighradiationarea__13181.1364784660.png
+data/obj_train_data/imgi_125_H1542BI.png
+data/obj_train_data/imgi_123_6943351084_74bab52a13_o.jpg
+data/obj_train_data/imgi_152_radfreqwarning.jpg
+data/obj_train_data/imgi_157_non-ionizing-radiation-hazard-safety-area-danger-warning-text-sign-H8G0YC.jpg
+data/obj_train_data/imgi_105_Custom-Caution-Sign-S-3291.gif
+data/obj_train_data/imgi_82_H1523.png
+data/obj_train_data/imgi_145_H1544.png
+data/obj_train_data/imgi_134_warning-rf-hazard-sign-on-white-background-free-vector.jpg
+data/obj_train_data/imgi_22_default (3).png
+data/obj_train_data/imgi_151_warning-signs-series-three-different-260nw-215062.jpg
+data/obj_train_data/imgi_14_default (4).png
+data/obj_train_data/1 (28).png
+data/obj_train_data/imgi_135_posted-harmful-chemical-warning-signs-in-grassy-field-C26TJB.jpg
+data/obj_train_data/imgi_131_61ra7CIskKL.jpg
+data/obj_train_data/imgi_97_Warning_All_Streets_are_Fire_Lanes_Do_Not_Park_Sign.jpg
+data/obj_train_data/imgi_136_H1521.png
+data/obj_train_data/imgi_205_D00396__85928.1601041983.png
+data/obj_train_data/imgi_102_caution-sign-on-a-radio-transmitter-mast-CE51XH.jpg
+data/obj_train_data/imgi_125_rf-microwave-hazard-caution-sign-s-6091.png
+data/obj_train_data/imgi_114_s-l1200.jpg
+data/obj_train_data/imgi_110_radio-frequency-warning.jpg
+data/obj_train_data/imgi_128_s-l1200.jpg
+data/obj_train_data/1 (5).png
+data/obj_train_data/imgi_114_WS34531-14__56027.1553204908.jpg
+data/obj_train_data/imgi_118_radio-transmitters-operating-health-and-safety-sign-2F8228P.jpg
+data/obj_train_data/imgi_127_warning_radio_frequency_radiation_hazard_safety_sign-550x385.jpg
+data/obj_train_data/imgi_147_labels.png
+data/obj_train_data/imgi_110_radio-frequency-fields-warning-sign-C6FHX5.jpg
+data/obj_train_data/imgi_172_radio-frequency-fields-caution-sign-s-6079_pl.png
+data/obj_train_data/imgi_167_yellow.png
+data/obj_train_data/imgi_88_WS22442__60845.1699022846.jpg
+data/obj_train_data/imgi_139_radio-waves-sign-illustration-T8087W.jpg
+data/obj_train_data/imgi_169_caution-rf-hazard-sign-white-background-254037621.jpg
+data/obj_train_data/imgi_77_WS22448__92281.1699022877.jpg
+data/obj_train_data/imgi_156_WV7823{1PA}-A8P-V-full.png
+data/obj_train_data/imgi_161_7582DR-600.jpg
+data/obj_train_data/imgi_98_radio-frequency-fields-warning-sign-s-6088.png
+data/obj_train_data/imgi_147_Untitled-design.png
+data/obj_train_data/imgi_15_default.jpg
+data/obj_train_data/imgi_139_warning-rf-radiation-hazard-authorized-only-sign-white-background_112413-31481.jpg
+data/obj_train_data/imgi_82_WV7823{1PA}-A8P-V-full.png
+data/obj_train_data/imgi_154_a-sign-attached-to-a-fence-warning-caution-radio-frequency-radiation-within-do-not-enter-2WJME1B.jpg
+data/obj_train_data/imgi_122_hq720.jpg
+data/obj_train_data/imgi_136_warning-signs-series-three-different-260nw-215062.jpg
+data/obj_train_data/imgi_154_pacemaker-warning-signage.jpg
+data/obj_train_data/imgi_161_maxresdefault.jpg
+data/obj_train_data/imgi_170_LS33412-46__58542.1571333380.jpg
+data/obj_train_data/imgi_81_H1551.png
+data/obj_train_data/imgi_158_caution-warning-signs-set-iii-20267.jpg
+data/obj_train_data/imgi_181__s_i_si-5565-7-d.jpg
+data/obj_train_data/imgi_132_H1551 (1).png
+data/obj_train_data/imgi_105_H1567.png
+data/obj_train_data/imgi_188_s-l400.jpg
+data/obj_train_data/imgi_108_CautionHighLevelRadioFrequencyFieldsSign.png
+data/obj_train_data/imgi_117_H1543.png
+data/obj_train_data/ChatGPT Image Aug 8, 2025, 01_38_39 PM.png
+data/obj_train_data/imgi_215_WS20465__37310.1699022949.jpg
+data/obj_train_data/sign19.png
+data/obj_train_data/imgi_155_H1544BI.png
+data/obj_train_data/imgi_125_radiation-hazard-indicating-non-ionizing-radiation-risk-with-safety-precautions-needed-vector.jpg
+data/obj_train_data/imgi_106_8018H-ISO.png
+data/obj_train_data/imgi_109_H1525.png
+data/obj_train_data/imgi_168_radiation-hazard-symbol-sign-radhaz-alert-icon-22393342.jpg
+data/obj_train_data/imgi_134_s-l1200.jpg
+data/obj_train_data/imgi_122_radio-frequency-hazard-caution-sign-perfect-for-backgrounds-backdrop-sticker-label-sign-symbol-and-wallpaper-2BNYWMR.jpg
+data/obj_train_data/imgi_127_WS22444__37907.1699022856.jpg
+data/obj_train_data/2 (7).png
+data/obj_train_data/imgi_132_notice-rf-radiation-hazard-authorized-only-sign-on-white-background-2JPWR24.jpg
+data/obj_train_data/imgi_102_danger-banner-radio-frequency-field-in-yellow-triangle-keep-out-official-HNPMRT.jpg
+data/obj_train_data/imgi_89_H1525.png
+data/obj_train_data/imgi_83_mqdefault.jpg
+data/obj_train_data/imgi_182_2412283372_18f9c34a7a_z.jpg
+data/obj_train_data/imgi_122_H1526.png
+data/obj_train_data/imgi_137_0000751_vw-al-wa-btp-675-vw-pl-wa-btp-675-vw-dc-wa-btp-675_415.png
+data/obj_train_data/imgi_141_shock-burn-hazard-ansi-sign-s-6078.png
+data/obj_train_data/imgi_110_caution-radio-transmitters-operating-warning-sign-at-a-mobile-cell-phone-tower-2S08EE1.jpg
+data/obj_train_data/imgi_251_warning-sign-with-symbols-for-dangerous-high-voltage-and-radio-frequency-C4YRNF.jpg
+data/obj_train_data/imgi_100_H1525.png
+data/obj_train_data/imgi_118_H1527.png
+data/obj_train_data/imgi_112_custom-warning-ansi-signs.png
+data/obj_train_data/imgi_155_notice-high-level-of-rf-radiation-sign-on-white-background-2JPWHRW.jpg
+data/obj_train_data/imgi_123_warning-rf-hazard-sign-white-background-warning-rf-hazard-sign-white-background-254114047.jpg
+data/obj_train_data/imgi_119_51cjjAGze0L._QL92_SH45_SS200_.jpg
+data/obj_train_data/imgi_98_H1527.png
+data/obj_train_data/imgi_108_caution-warning-radio-transmitter-radiation-danger-signs-on-mobile-BM6GH2.jpg
+data/obj_train_data/imgi_136_WS-RL Warning Sign Beyond This Point RF Field Exists 300mm x 200mm.jpg
+data/obj_train_data/imgi_94_s-l1200.jpg
+data/obj_train_data/imgi_21_default (1).png
+data/obj_train_data/imgi_174_s-l1200.jpg
+data/obj_train_data/imgi_87_radio-frequency-fields-warning-sign-s-6088.png
+data/obj_train_data/imgi_133_11.png
+data/obj_train_data/imgi_112_non-ionising-radiation-warning-sign-outside-a-bt-microwave-transmitter-station-RPB33T (1).jpg
+data/obj_train_data/imgi_112_radio-frequency-sign-rf-17184_1000_3.gif
+data/obj_train_data/imgi_136_WV7803-A7L-DC-th.png
+data/obj_train_data/imgi_23_default (2).png
+data/obj_train_data/imgi_149_WS20464__21365.1699022944.jpg
+data/obj_train_data/imgi_166_44b3e1d3-eec8-5cb9-a1ef-09a301bbd35e__31521.1691791249.jpg
+data/obj_train_data/imgi_129_CPC-2-0-20-warningrf-eng.jpg
+data/obj_train_data/imgi_159_6404.5a.png
+data/obj_train_data/imgi_85_10-x-14-in-OSHA-Caution-Radiation-Sign-Possible-RF-Radiation-with-Symbol_e9900ee5-836f-486e-8804-2c4529debfcb.670d89199a75581a5222472aa427e67d.jpg
+data/obj_train_data/imgi_140_s-l400.jpg
+data/obj_train_data/imgi_77_WS-RL Warning Sign Beyond This Point RF Field Exists 300mm x 200mm.jpg
+data/obj_train_data/imgi_113_orange.png
+data/obj_train_data/imgi_106_WS-YT Warning Sign Non-Ionising Radiation Consult Site Folder 300mm x 200mm.jpg
+data/obj_train_data/imgi_213_NTX4-43.gif
+data/obj_train_data/imgi_97_bbcomps4791_bb_01.jpg

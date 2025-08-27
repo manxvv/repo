@@ -196,7 +196,30 @@ def mapping(PDF_PATH):
 
     # === Save output (annotated only) ===
     base = os.path.splitext(os.path.basename(image_path))[0]
-    annotated_path = os.path.join(output_dir, f"{base}_annotated.png")
+    annotated_path = os.path.join(output_dir, f"{base}.jpeg")  # same name as input
     cv2.imwrite(annotated_path, annotated_output)
+    
+   
 
-    print(f"✅ Saved:\n  Input image:  {extracted_image_path}\n  Output image: {annotated_path}")
+    print(f"✅ Saved:\n  Input image:  {extracted_image_path}\n  Output image: {annotated_path}\n")
+    print({
+    "Blue": round(total_areas.get("Blue", 0.0), 1),
+    "Green": round(total_areas.get("Green", 0.0), 1),
+    "Red": round(total_areas.get("Red", 0.0), 1)
+})
+    result = {
+        "input_image": extracted_image_path,
+        "annotated_image": annotated_path,
+        "areas_sqft": {
+            "Blue": round(total_areas.get("Blue", 0.0), 1),
+            "Green": round(total_areas.get("Green", 0.0), 1),
+            "Red": round(total_areas.get("Red", 0.0), 1)
+        }
+    }
+    return result
+   
+    
+
+    # annotated_path = os.path.join(output_dir, f"{base}_annotated.png")
+    # cv2.imwrite(annotated_path, annotated_output)
+

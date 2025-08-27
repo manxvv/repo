@@ -333,6 +333,8 @@ def extract():
 
 
 
+
+
 @app.route("/masking/<file_id>/<filename>", methods=["GET"])
 def get_masked_image(file_id, filename):
     masking_folder = os.path.join("mapping", "output", file_id)

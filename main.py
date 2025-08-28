@@ -18,6 +18,8 @@ import datetime
 from utils.jwt_utils import generate_access_token
 from middleware.check_auth import check_auth
 from bson import ObjectId
+# from access import main
+from access3 import main
 
 app = Flask(__name__)
 # CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
@@ -160,7 +162,6 @@ def extract_page():
         # ---- process PDF ----
         result = scan_pdf(fullpath)
         result1 = mapping(fullpath)
-
         # ---- save metadata to DB ----
         files_collection.insert_one({
             "filename": uploaded_file.filename,
@@ -168,6 +169,7 @@ def extract_page():
             "path": temp_path,
             "uploaded_at": datetime.datetime.utcnow()
         })
+        result2 = main(fullpath)
 
         return jsonify({
             "filename": uploaded_file.filename,
@@ -280,6 +282,14 @@ def process_images():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+# @app.route("/access",methods=["GET"])
+# def tracing():
+#     try:
+        
+#     except Exception as e:
+#         return jsonify({"message": str(e)}),500
+
+
 
 @app.route("/masking", methods=["GET"])
 def extract():
@@ -332,6 +342,12 @@ def extract():
         return jsonify({"error": str(e)}), 500
 
 
+
+@app.route("/results/<filename>", methods=["GET"])
+def get_results_image(filename):
+    masking_folder = os.path.join(os.getcwd(),"results")
+    
+    return send_from_directory(masking_folder, filename)
 
 
 

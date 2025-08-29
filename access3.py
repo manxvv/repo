@@ -6,7 +6,6 @@ import numpy as np
 from ultralytics import YOLO
 import easyocr
 from db import get_db
-import shutil
 
 db = get_db()
 users_collection=db["users"]
@@ -373,9 +372,9 @@ def main(DEFAULT_PDF):
         sys.exit(1)
 
     res = pipeline(img, weights_path=DEFAULT_WEIGHTS)
-
+    print(res,"res1")
     # 3) Print only the caution count
-    print(res["count"])
+    print(res["count"],"res2")
 
     # 4) Save visualization
     os.makedirs(OUTPUT_DIR, exist_ok=True)

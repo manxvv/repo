@@ -20,6 +20,7 @@ from middleware.check_auth import check_auth
 from bson import ObjectId
 # from access import main
 from access3 import main
+import threading
 
 app = Flask(__name__)
 # CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
@@ -53,12 +54,18 @@ os.makedirs(OUTPUT_FOLDER, exist_ok=True)
 # === Load YOLO model once ===
 model = YOLO("best.pt")
 class_names = ["caution", "warning", "notice"]
-
+print(model,",oodoo")
 
 app.config["UPLOAD_FOLDER"] = UPLOAD_FOLDER
 app.config["MAX_CONTENT_LENGTH"] = 16 * 1024 * 1024 
 
 
+
+def async_main(pdf_path):
+    try:
+        main(pdf_path)
+    except Exception as e:
+        print(f"[ERROR in async_main] {e}")
 
 
 @app.route("/signup", methods=["POST"])
@@ -170,7 +177,7 @@ def extract_page():
             "uploaded_at": datetime.datetime.utcnow()
         })
         result2 = main(fullpath)
-
+        # threading.Thread(target=async_main,args=(fullpath,),daemon=True).start()
         return jsonify({
             "filename": uploaded_file.filename,
             "user_id": user_id,

@@ -4,7 +4,6 @@ from collections import Counter
 
 # Load the trained model
 model = YOLO("best.pt")
-
 class_names = ["caution", "warning", "notice"]
 
 # Run prediction (don't use show=True here, we will handle display manually)

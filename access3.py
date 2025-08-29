@@ -48,6 +48,7 @@ def find_access_point(img):
 
     scales = [1.6, 2.0, 2.4]
     cands = []
+    print(cands,"SDSDsdsds")
     for S in scales:
         up = cv2.resize(img, None, fx=S, fy=S, interpolation=cv2.INTER_LINEAR)
         up = enhance(up)
@@ -66,6 +67,7 @@ def find_access_point(img):
                 "exact": _norm(text)=="ACCESS", "x": cx
             })
         if cands: break
+    print(cands,"SDSDsdsds")
 
     if not cands:
         return None
@@ -330,7 +332,7 @@ def pipeline(image_bgr, weights_path):
 
     # 4) Order ALL boxes from ACCESS via nearest-neighbor tour
     ordered = order_boxes_nearest(boxes, access['center'])
-
+    print(access,"ooooossdsdsf",ordered)
     return {"access": access, "ordered_boxes": ordered, "count": len(ordered)}
 
 # ===================== MAIN =====================

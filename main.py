@@ -19,8 +19,11 @@ from utils.jwt_utils import generate_access_token
 from middleware.check_auth import check_auth
 from bson import ObjectId
 # from access import main
-from access3 import main
+from access3 import mainly
 import threading
+
+import random
+import string
 
 app = Flask(__name__)
 # CORS(app, resources={r"/*": {"origins": "*"}}, supports_credentials=True)
@@ -176,7 +179,7 @@ def extract_page():
             "path": temp_path,
             "uploaded_at": datetime.datetime.utcnow()
         })
-        result2 = main(fullpath)
+        # result2 = main(fullpath)
         # threading.Thread(target=async_main,args=(fullpath,),daemon=True).start()
         return jsonify({
             "filename": uploaded_file.filename,
@@ -289,13 +292,40 @@ def process_images():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-# @app.route("/access",methods=["GET"])
-# def tracing():
-#     try:
-        
-#     except Exception as e:
-#         return jsonify({"message": str(e)}),500
+def random_filename(extension=""):
+    """Generate random filename with optional extension"""
+    rand_str = ''.join(random.choices(string.ascii_letters + string.digits, k=12))
+    return f"{rand_str}{extension}"
 
+@app.route("/access", methods=["POST"])
+def tracing():
+    try:
+        if "file" not in request.files:
+            return jsonify({"message": "No file part in request"}), 400
+
+        file = request.files["file"]
+        if file.filename == "":
+            return jsonify({"message": "No selected file"}), 400
+
+        # Extract extension
+        _, ext = os.path.splitext(file.filename)
+        # Make random file name with same extension
+        filename = random_filename(ext)
+
+        file_path = os.path.join(UPLOAD_FOLDER, filename)
+        file.save(file_path)
+
+        # call your main function with file path
+        result = mainly(file_path)
+
+        return jsonify({
+            "message": "File processed successfully",
+            "filename": filename,
+            "result": result
+        }), 200
+
+    except Exception as e:
+        return jsonify({"message": str(e)}), 500
 
 
 @app.route("/masking", methods=["GET"])

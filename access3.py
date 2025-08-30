@@ -337,9 +337,11 @@ def pipeline(image_bgr, weights_path):
 
 # ===================== MAIN =====================
 
-def main(DEFAULT_PDF):
+def mainly(DEFAULT_PDF):
+    print(DEFAULT_PDF,"lllllkk___")
+    
     # ---- set these paths (once) ----
-    # DEFAULT_PDF     = r"C:\Users\Admin\OneDrive\Documents\Desktop\caution2k-20250818T051503Z-1-001\uploads\10087226_36504_CLL05824_CLL25824_RFSSR_04-22-2025.pdf"
+    # DEFAULT_PDF     = r"C:\Users\lenovo\Desktop\caution2k-20250818T051503Z-1-001\uploads\10087226_36504_CLL05824_CLL25824_RFSSR_04-22-2025.pdf"
     # DEFAULT_WEIGHTS = r"C:\Users\Admin\OneDrive\Documents\Desktop\caution2k-20250818T051503Z-1-001\best.pt"
 
     # EXTRACT_DIR = r"C:\Users\Admin\OneDrive\Documents\Desktop\caution2k-20250818T051503Z-1-001\extracted"
@@ -347,9 +349,13 @@ def main(DEFAULT_PDF):
 
     # OUTPUT_DIR  = r"C:\Users\Admin\OneDrive\Documents\Desktop\caution2k-20250818T051503Z-1-001\results"
     # OUTPUT_IMG  = os.path.join(OUTPUT_DIR, "site_scale_map_2_debug.jpg")
-    DEFAULT_WEIGHTS = r"C:\Users\lenovo\Desktop\caution2k-20250818T051503Z-1-001\best.pt"
-    EXTRACT_DIR = r"C:\Users\lenovo\Desktop\caution2k-20250818T051503Z-1-001\extracted"
+    BASE_DIR = os.getcwd()
+    # DEFAULT_WEIGHTS = r"C:\Users\lenovo\Desktop\caution2k-20250818T051503Z-1-001\best.pt"
+    # EXTRACT_DIR = r"C:\Users\lenovo\Desktop\caution2k-20250818T051503Z-1-001\extracted"
+    DEFAULT_WEIGHTS = os.path.join(BASE_DIR, "best.pt")
+    EXTRACT_DIR = os.path.join(BASE_DIR, "extracted")
     EXTRACT_IMG = os.path.join(EXTRACT_DIR, "site_scale_map_2.png")
+    
     import random
     file_name = f"site_scale_{random.randint(0,987654321)}"
     file_path=f"results/{file_name}.jpg"
@@ -357,9 +363,6 @@ def main(DEFAULT_PDF):
     print(OUTPUT_DIR,"qwet222")
     #C:\Users\lenovo\Desktop\caution2k-20250818T051503Z-1-001\results
     OUTPUT_IMG  = os.path.join(OUTPUT_DIR, f"{file_name}.jpg")
-
-
-    
 
     # 1) PDF → image under 2nd "Site Scale Map"
     ok = extract_second_site_scale_map(DEFAULT_PDF, EXTRACT_IMG, keyword="Site Scale Map", margin_px=20, zoom=2.0)
